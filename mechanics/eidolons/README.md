@@ -99,7 +99,7 @@ Regenerating Scream: The Hydrolyst glows green and screeches. This will cause su
 
 Enhanced Sentient Residue: The Hydrolyst will "bleed" teal blood on the ground after losing at least one of its Synovia, dealing a lot of damage over time to those standing on it.
 
-Enhanced Star Far: Fires its gun into the sky, causing a rain of explosive, slightly homing projectiles on all targets nearby. The explosives may cause knockdown. Most of the projectiles spawn right under enemies. Base area-of-effect spans a 300m radius.
+Enhanced Star Fall: Fires its gun into the sky, causing a rain of explosive, slightly homing projectiles on all targets nearby. The explosives may cause knockdown. Most of the projectiles spawn right under enemies. Base area-of-effect spans a 300m radius.
 
 Vomvalyst Bloom:  Throughout the fight, the Hydrolyst summons Vomvalyst Bloom, purple portals that will periodically spawn buffed variants of the Eidolon Vomvalysts. The blooms can also link to nearby Vomvalysts, making them immune to damage, and charging them up over time. Fully charged Vomvalysts gain a large amount of overshields and are visually indicated by a bright energy aura surrounding them. The Bloom can be destroyed with either Operator attacks or gunfire.
 
