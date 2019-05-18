@@ -4,87 +4,83 @@ description: These are the places to get desired warframe.
 
 # Warframe Acquisition
 
-Base variant warframes can be obtained through out the star chart, except for a few, Here is the list on how to get said warframe,
+### Base variant warframes
 
-### Ash
+* Ash - Acquired from Grineer Manics, Body blueprint from the Market.
+* Atlas - Acquired from Jordas Golem Assassination on Eris, Body blueprint from Jordas Precept quest.
+* Banshee - Can be replicated from the Tenno Lab in the clan Dojo.
+* Baruuk - Acquired from Vox Solaris standing.
+* Chroma - Acquired from Uranus, Neptune, Pluto junctions, Body blueprint from New Strange quest.
+* Ember - Acquired from Sargas Ruk on Saturn, Body blueprint from the Market.
+* Equinox - Acquired from Tyl Regor on Uranus, Body blueprint from the Market.
+* Excalibur - Acquired from Lech Kril on Mars, Body blueprint from the Market.
+* Frost - Acquired from Lech Kril & Vor on Ceres, Body blueprint from the Market.
+* Gara - Acquired from Cetus Bounties, Body blueprint from Saya's Vigil quest.
+* Garuda - Acquired from Fortuna Bounties, Body blueprint from Vox Solaris quest.
+* Harrow - Acquired from Kuva Spy, Fissure Enemies, Defection, Body blueprint from Chains of Harrow.
+* Hildryn - Acquired from Exploiter Orb, Body blueprint from Vox Solaris standing.
+* Hydroid - Acquired from Vay Hek on Earth, Body blueprint from the Market.
+* Inaros - All components come from the Sands of Inaros quest that Baro brings.
+* Ivara - Acquired from Spy nodes, See the below message for specifics.
+* Blueprint/Neuroptics - Uranus/Neptune/Pluto/Sedna \| Chassis - Ceres/Jupiter/Europa/Saturn/Lua \| Systems - Earth/Venus/Mercury/Mars/Phobos
+* Khora - All components come from Sanctuary Onslaught rotations.
+* Limbo - Acquired from the Limbo Theorem quest, Body blueprint from the Market.
+* Loki - Acquired from the Hyena Pack on Neptune, Body blueprint from the Market.
+* Mag - Acquired from The Sergeant on Phobos, Body blueprint from the Market.
+* Mesa - Acquired from M. Alad V on Eris, Body blueprint from the Market.
+* Mirage - Acquired from Hidden Messages quest, Body blueprint from the Market.
+* Nekros - Acquired from the Lephantis on Derelict, Body blueprint from the Market.
+* Nezha - Can be replicated from the Tenno Lab in the clan Dojo.
+* Nidus - Acquired from Infested Salvage on Eris, Body blueprint from Glast Gambit quest.
+* Nova - Acquired from the Raptor on Europa, Body blueprint from the Market.
+* Nyx - Acquired from the Phorid on Invasions, Body blueprint from the Market.
+* Oberon - Acquired from Eximus units, Body blueprint from the Market.
+* Octavia - Acquired from, Neuroptics - Derelict Survival, Chassis - Lua Music Puzzle, Systems Lua Crossfire caches, Body blueprint from Octavias Anthem quest.
+* Revenant - Acquired from Cetus Bounties, Body blueprint from Mask of the Revenant quest.
+* Rhino - Acquired from the Jackal on Venus, Body blueprint from the Market.
+* Saryn - Acquired from Kela De Thaym on Sedna, Body blueprint from the Market.
+* Titania - All components come from The Silver Grove quest.
+* Trinity - Acquired from the Ambulas on Pluto, Body blueprint from the Market.
+* Valkyr - Acquired from Alad V on Jupiter, Body blueprint from the Market.
+* Vauban - Acquired from the Nightwave shop for wolf creds, Body blueprint from the Market.
+* Volt - Can be replicated from the Tenno Lab in the clan Dojo.
+* Wukong - Can be replicated from the Tenno Lab in the clan Dojo.
+* Zephyr - Can be replicated from the Tenno Lab in the clan Dojo.
+* Wisp - ???
+* Excalibur Umbra - The Sacrifice quest.
 
-Ash's components drop as a reward from Grineer Manics, These Manics can be farmed on the Defection gamemode, Clem's weekly, or Grineer Survival.
+### Prime variant warframes
 
-### Atlas
+* Ash Prime - Vaulted
+* Banshee Prime - Vaulted
+* Chroma Prime - Obtainable
+* Ember Prime - Vaulted
+* Equinox Prime - Obtainable
+* Excalibur Prime - Founders Only 
+* Frost Prime - Vaulted
+* Hydroid Prime - Obtainable
+* Limbo Prime - Obtainable
+* Loki Prime - Obtainable \(Current Prime Vault\)
+* Mag Prime - Vaulted
+* Mesa Prime - Obtainable
+* Mirage Prime - Obtainable
+* Nekros Prime - Vaulted
+* Nova Prime - Vaulted
+* Nyx Prime - Vaulted
+* Oberon Prime - Vaulted
+* Rhino Prime - Vaulted
+* Saryn Prime - Vaulted
+* Trinity Prime - Vaulted
+* Valkyr Prime - Vaulted
+* Vauban Prime - Vaulted
+* Volt Prime - Obtainable \(Current Prime Vault\)
+* Zephyr Prime - Obtainable
 
-Atlas's blueprint is a reward from completing the quest The Jordas Precept, The remaining components is a reward from The Jordas Golem assassination on Eris.
+### 
 
-### Banshee
+### 
 
-Banshee's blueprint and components can be replicated from the Tenno Lab in the Dojo once your clan has researched thus parts.
-
-### Baruuk
-
-Baruuk's blueprint and components can be bought from Little Duck in Fortuna for Vox Solaris standing, Main body blueprint requires you to be the rank of Agent, and components require the rank of Hand in Vox Solaris standing.
-
-### Chroma
-
-Chroma's blueprint is a reward from completing the quest The New Strange, The remaining components is a reward from certain Junctions, The Neuroptics is a reward from the Uranus Junction, The Chassis is a reward from the Neptune Junction, The Systems is a reward from the Pluto Junction.
-
-### Ember
-
-Ember's blueprint can be bought from the Market for 25,000 Credits, and the components are a reward from killing General Sargas Ruk on Tethys, Saturn.
-
-### Equinox
-
-Equinox's blueprint can be bought from the Market for 25,000 Credits, and the components are a reward from killing Tyl Regor on Titania, Uranus. Do note this frame has 8 total drops from Tyl Regor, Day Aspect Blueprint, Neuroptics, Chassis, Systems and Night Aspect Blueprint, Neuroptics, Chassis, Systems.
-
-### Excalibur
-
-Excalibur's blueprint can be bought from the Market for 35,000 Credits, and the components are a reward from killing LT. Lech Kril on War, Mars.
-
-### Frost
-
-Frost's blueprint can be bought from the Market for 25,000 Credits, and the components are a reward from killing LT. Lech Kril & Captain Vor on Exta, Ceres.
-
-### Gara
-
-Gara's blueprint is a reward from completing the quest Saya's Vigil, The remaining components are a reward from Plains of Eidolon Bounties.
-
-### Garuda
-
-Garuda's blueprint is a reward from completing the quest Vox Solaris, The remaining components are a reward from Orb Vallis Bounties.
-
-### Harrow
-
-Harrow's blueprint is a reward from completing the quest Chains of Harrow, The Neuroptics is a reward from Vault C on Pago, Kuva Fortress \| Chassis from Void Fissure enemies \| Systems from Rotation C on Defection.
-
-### Hildryn
-
-Hildryn's blueprint can be bought from Little Duck for Vox Solaris standing once reaching the rank of Agent, The Components are a reward from the Exploiter Orb.
-
-### Hydroid
-
-Hydroid's blueprint can be bought from the Market for 50,000 Credits, The remaining components are a reward from killing Vay Hek on Oro, Earth.
-
-### Inaros
-
-Inaros's set is obtainable via Sands of Inaros quest sold from Baro Ki'Teer when he arrives.
-
-### Ivara
-
-![](../.gitbook/assets/image%20%2814%29.png)
-
-### Khora
-
-Khora's set is obtainable via Sanctuary Onslaught as a rotation reward.
-
-### Limbo
-
-Limbo's blueprint can be purchased from the Market for 35,000 Credits, The components are a reward from completing the quest The Limbo Theorem.
-
-### Loki
-
-Loki's blueprint can be purchased from the Market for 35,000 Credits, The components are a reward from killing the Hyena Pack on Psamathe, Neptune.
-
-### Mag
-
-Mag's blueprint can be purchased from the Market for 25,000 Credits, The components are a reward from killing The Sergeant on Illiad, Phobos.
+### 
 
 
 
