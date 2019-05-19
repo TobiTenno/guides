@@ -9,111 +9,176 @@ description: >-
 
 ## What are Eidolons?
 
-Eidolons are sentient bosses that roam around the Plains of Eidolon during night time. Currently there are 4 types of Eidolons that exist in the game, Those Eidolons are named Eidolon Vomvalyst, Eidolon Teralyst, Eidolon Gantulyst, Eidolon Hydrolyst. With that being said, lets get into specifically what they are.
+Eidolons are Sentient bosses that roam the Plains of Eidolons during night time cycle. These bosses drop a series of rewards that can be very beneficial in many ways, Read down or check other tabs for more information!
 
 ## Eidolon Vomvalyst
 
-Vomvalyst are sentient creatures that can be found roaming around the Plains of Eidolon during night time. They mostly roam in packs of 2-3 in random places around the Plains of Eidolon, or near the Eidolon Teralyst, Eidolon Gantulyst, or Eidolon Hydrolost. These sentients also posses 2 forms, a Physical Form and Sentient Energy form. The Physical Form can take damage like a normal enemy, in this form they attack by launching pairs of guided projectiles at enemies, which deals moderate damage. Once their health is reduced to zero, they will turn into their Sentient Energy form, which can only be damage with your Operator. Sentient Energy form Vomvalyst will attack by charging towards their enemies, if their energy form is not killed after a short duration, they will eventually regenerate into their Physical form. Once these creatures are killed, they will drop a intact sentient core and a energy sphere.
+![](../../.gitbook/assets/image.png)
+
+Eidolon Vomvalyst are small sentient creatures that roam around the Plains of Eidolon during the night time cycle, these creatures roam in packs of 2-3, or can be found with the Teralyst/Gantulyst/Hydrolyst.  
+Here are a few notable things about them,
+
+* Possess two forms, Physical form and Energy Form.
+* Physical Form can be damaged like any normal enemy.
+* Energy Form can only be killed by your operator's void energy attacks.
+* Regenerate back into Physical form once they have been in Energy Form for a period of time.
+* Can be sucked up into Eidolon Lures.
 
 ## Eidolon Lures
 
-Eidolon Lures are special grineer devices found in the Plains of Eidolon that can distract and trap Eidolon Vomvalyst, These devices can also tether a Teralyst, Gantulyst, and Hydrolyst once the lure is fully charged, which requires a total of 3 Vomvalyst.You can kill a Vomvalyst for its energy sphere and take it to the lure as well. It takes a total of 2 charged lures to capture a Teralyst, 3 for the Gantulyst and Hydrolyst. Capturing these sentients means better arcane rewards, and more focus shards and sentient cores.
+![](../../.gitbook/assets/image%20%2824%29.png)
+
+Eidolon Lures are Grineer machines found in the Plains of Eidolon at Grineer encampments during night time cycle. These can be hacked with Ciphers, so it is recommended to get some for these guys.   
+Here are a few notable things about them,
+
+* Prevent teleportation of the eidolon Teralyst/Gantulyst/Hydrolyst once charged.
+* Takes a total of 3 Vomvalyst to charge one.
+* Can be held position to give to another squad mate.
+* Ciphers work on them.
 
 ## Eidolon Teralyst
 
-The Eidolon Teralyst is a gigantic sentient boss creature that can be found roaming aimlessly around the Plains of Eidolon during night time, the first of the bosses. The Teralyst will emerge from bodies of water as a blue column of light marking their location, this will happen when night time starts or when you load into the Plains of Eidolon when night is active. This Eidolon posses Shields in which can only be taken out with your Operator, because it can only be damaged by Void Damage. This Eidolon also posses 4 limbs, 2 Knees and 2 Arms. You must take these out before finally performing the kill/capture. This Eidolon also posses many different attacks and several of them deal moderate to high damage. 
+![](../../.gitbook/assets/image%20%2815%29.png)
 
-Seeking Bullet: A sphere of light emitted from the Teralyst's back which splits into multiple homing projectiles. These are not very accurate, and are easily avoided, but will hit in an Area of Effect even if missing.
+Eidolon Teralyst is the first boss you encounter when night time is present, This eidolon has a series of attacks that can do moderate damage.  
+Here are a few notable things about them,
 
-Ground Stomp: Stomps the ground, sending out a ground shockwave that knockbacks back any Tenno in its path a great distance \(100 meter radius\). Can be avoided through jumping.
+* All of their attacks can easily be dodged.
+* Has a blue column of light to indicate it's spawn location.
+* Has a total of 4 synovias/limbs.
+* Takes a total of 2 charged lures to capture the Teralyst.
+* Weak to Radiation damage if armor is kept, like stated in the "Required Builds" section.
 
-Ground Smash: Smashes the ground, sending out a series of high-damaging, homing quakes to the your position. These homing quakes can stun you and are 25m high. In later stages, these waves also return to the Teralyst.
+With that being said, this Eidolon also has a lot more rewards then a Vomvalyst,  
+Here are the rewards.
 
-Gun Swing: Swings its gun arm while firing it in a wide arc, each bullet creating a 2m wide explosion.
+#### If killed
 
-Tree Swing: Swings its tree arm in a short arc, dealing heavy damage.This will also cause some Staggers.
+* 1x Eidolon Shard
+* Sentient Cores
+* 1 Arcane, That arcane can be \/
+* Arcane Tempo \(Decent\)
+* Arcane Ice \(Bad\)
+* Arcane Warmth \(Bad\)
+* Arcane Nullifier \(Good\)
+* Arcane Momentum \(Good\)
+* Arcane Consequence \(Good\)
+* Arcane Resistance \(Bad\)
 
-Summoning Scream: The Teralyst glows orange and screeches into the air. This will summon and buff Vomvalysts around it.
+#### If captured
 
-Regenerating Scream: The Teraylst glows blue and screeches. This will cause surrounding Vomvalysts \(that are not affected by Summoning Scream\) to link to the Teralyst and begin to regenerate its shield. Additionally, this will render it invulnerable to all damage until all linked Vomvalysts are destroyed. Has a slightly longer wind-up time than Summoning Scream.
-
-Sentient Residue: The Teralyst will "bleed" teal blood on the ground after losing at least one of its Synovia, dealing damage over time to those standing on it. It is hard to avoid these.  
-  
-Star Fall: Fires its gun into the sky, causing a rain of explosive, slightly homing projectiles on all targets nearby. The explosives may cause knockdown.
-
-Energy Spike:  The attack Teralyst uses upon the destruction of one of his limbs. This will emit five pulses of high Magnetic damage. He will repeat this three times.
-
-Killing this Eidolon will result in the Teralyst dropping a Eidolon Shard, some Sentient Cores, and 1 Arcane, The arcane can result in Arcane Tempo \(Decent\) Arcane Ice \(Bad\) Arcane Warmth \(Bad\) Arcane Nullifier \(Good\) Arcane Momentum \(Good\) Arcane Consequence \(Good\) Arcane Resistance \(Bad\).
-
-Capturing this Eidolon will result in the Teralyst dropping a Eidolon Shard, Flawless Sentient core, Brilliant Eidolon Shard \(Used to summon the Gantulyst, or to unlock Waybound focus\) and possibly a Teralyst Articula decoration for your personal needs, As well as 1 Arcane, The arcane can result in Arcane Tempo \(Good\) Arcane Consequence \(Good\) Arcane Ice \(Bad\) Arcane Momentum \(Good\) Arcane Nullifier \(Good\) Arcane Warmth \(Bad\) Arcane Deflection \(Bad\) Arcane Healing \(Bad\) Arcane Resistance \(Bad\) Arcane Victory \(Decent\).
+* 1x Eidolon Shard
+* Sentient Cores
+* 1x Brilliant Eidolon Shard
+* 1x Arcane, That arcane can be \/
+* Arcane Tempo \(Decent\)
+* Arcane Ice \(Bad\)
+* Arcane Warmth \(Bad\)
+* Arcane Nullifier \(Good\)
+* Arcane Momentum \(Good\)
+* Arcane Consequence \(Good\)
+* Arcane Resistance \(Bad\)
+* Arcane Deflection \(Bad\)
+* Arcane Victory \(Decent\)
+* Arcane Healing \(Bad\)
+* Possibly a Teralyst Articula
 
 ## Eidolon Gantulyst
 
-The Eidolon Gantulyst is a enormous sentient boss creature and is the second Eidolon boss you will fight after you have successfully captured the Eidolon Teralyst, How you summon this creature is place the Brilliant Eidolon Shard in the Eidolon Shrine located in the middle of Gara Toht Lake. After putting in the shard, the Gantulyst will begin to emit a orange column of light, then they will emerge from the water in front on the shrine, there are 4 possible set spawn locations.This Eidolon posses Shields in which can only be taken out with your Operator, because it can only be damaged by Void Damage.This Eidolon also posses 6 limbs, 2 Knees, 2 Arms, and 2 Back. You must take these out before finally performing the kill/capture. This Eidolon also posses many different attacks and several of them deal moderate to high damage.
+![](../../.gitbook/assets/image%20%282%29.png)
 
-Seeking Sphere: A sphere of light emitted from the Gantulyst's back which slowly travels to its target while firing somewhat inaccurate bullets. These are very slow, and the sphere can either be dodged or destroyed with the Operator.
+Eidolon Gantulyst is the second boss you encounter after you have successfully captured a Teralyst meanwhile night time is present, This Eidolon has a series of attacks that can do moderate to very high damage, as well as double the size, a massive boi.  
+Here are a few notable things about them,
 
-Summoning Scream: The Gantulyst glows green and screeches into the air. This will summon and buff Vomvalysts around it.
+* Most of their attacks can be dodged, some are noticeable before affect.
+* Has a orange column of light to indicate it's spawn location.
+* Has a total of 6 synovias/limbs.
+* Takes a total of 3 charged lures to capture the Gantulyst.
+* Likes to spawn lasers that deal a massive amounts of damage.
+* Weak to Radiation damage if armor is kept, like stated in the "Required Builds" section.
 
-Gantulyst Shields: After a Summoning Scream or a Regenerating Scream ****The Gantulyst deploys a large orange dome covering the area around it, which blocks enemy fire coming from outside the dome. The dome moves with the Gantulyst, who acts as its center, forcing you to get much closer to the Eidolon in order to damage it. Additionally, the dome emits pulses of energy that sap the health of anything outside it in a wide radius \(300m\). The lures are extremely vulnerable to those pulses.
+With that being said, this Eidolon also has a lot more rewards then a Teralyst,  
+Here are the rewards.
 
-Ground Stomp: Stomps the ground, sending out a ground shockwave that knocks back any enemies in its path a great distance \(100 meter radius\).
+#### If killed
 
-Knockback Pulse:  If Gantulyst Shields are active, Ground Stomp is followed by 4 shockwaves with very powerful knockback. It can be dodged by jumping over them.
+* 3x Eidolon Shards
+* Sentient Cores
+* 1x Arcane, That arcane can be \/
+* Arcane Strike \(Good\)
+* Arcane Awakening \(Decent\)
+* Arcane Guardian \(Very Good\)
+* Arcane Phantasm \(Bad\)
+* Arcane Eruption \(Bad\)
+* Arcane Acceleration \(Decent\)
+* Arcane Precision \(Niche\)
 
-Energy Pillars  If Gantulyst Shields are not present, Ground Stomp is followed by several pillars of light emerged from the ground, dealing heavy damage to anything coming in contact with them. Small patches of yellow smoke and teal-colored ground briefly indicate where the pillars will emerge.
+#### If captured
 
-Ground Smash: Smashes the ground, sending out a series of high-damaging, homing quakes to the your position. These homing quakes can stagger the your and are 25m high.
-
-Rock Swing: Swings its rock arm inflicting damage to enemies struck by it.
-
-Laser Swing:  Similar to the Teralyst Gun Swing, the Gantulyst swings its gun arm while firing a continuous beam of light in a wide arc. The laser leaves behind a trail of fire, which explodes shortly after.
-
-Regenerating Scream: The Gantulyst glows green and screeches. This will cause surrounding Vomvalysts \(that are not affected by Summoning Scream\) to link to the Gantulyst and begin to regenerate its shield. Additionally, this will render it invulnerable to all damage until all linked Vomvalysts are destroyed.
-
-Sentient Residue: The Gantulyst will "bleed" teal blood on the ground after losing at least one of its Synovia, dealing damage over time to those standing on it.
-
-Star Prism: Fires a prism into the sky, which then explodes into multiple lasers firing in all directions, dealing heavy damage.
-
-Energy Spike: The attack Gantulyst uses upon the destruction of one of its limbs. This will emit five pulses of highly damaging Magnetic damage. It will repeat this five times.
-
-Killing this Eidolon will result in the Gantulyst dropping 3 Eidolon Shards, some Sentient Cores, and 1 arcane, That arcane can result in Arcane Strike \(Good\) Arcane Awakening \(Good\) Arcane Guardian \(Good\) Arcane Phantasm \(Niche\) Arcane Eruption \(Niche\) Arcane Acceleration \(Niche\) Arcane Precision \(Niche\)
-
-Capturing this Eidolon will result in the Gantulyst dropping 3 Eidolon Shards, some Sentient Cores, a Brilliant Eidolon Shard, Radiant Eidolon Shard, Gantulyst Articula, and 1 Arcane, That arcane can result in Arcane Strike \(Good\) Arcane Awakening \(Good\) Arcane Guardian \(Good\) Arcane Phantasm \(Niche\) Arcane Eruption \(Niche\) Arcane Acceleration \(Niche\) Arcane Precision \(Niche\) Arcane Pulse \(Good\) Arcane Ultimatum \(Niche\) Arcane Aegis \(Good\).
+* 3x Eidolon Shards
+* Sentient Cores
+* 1x Brilliant Shard
+* 1x Radiant Eidolon Shard
+* 1x Arcane, That arcane can be \/
+* Arcane Strike \(Good\)
+* Arcane Awakening \(Decent\)
+* Arcane Guardian \(Very Good\)
+* Arcane Phantasm \(Bad\)
+* Arcane Eruption \(Bad\)
+* Arcane Acceleration \(Decent\)
+* Arcane Precision \(Niche\)
+* Arcane Pulse \(Good\)
+* Arcane Ultimatum \(Decent\)
+* Arcane Aegis \(Very Good\)
+* Possibly a Gantulyst Articula
 
 ## Eidolon Hydrolyst
 
-The Eidolon Hydrolyst is a enormous sentient boss creature and is the third and final Eidolon boss you fight after you have successfully captured the Eidolon Gantulyst. How you summon this creature is place the Radiant Eidolon Shard in the Eidolon Shrine located in the middle of Gara Toht Lake. After putting in the shard, the Hydrolyst will begin to emit a green column of light, then they will emerge from the water in front on the shrine, there are 4 possible set spawn locations.This Eidolon posses Shields in which can only be taken out with your Operator, because it can only be damaged by Void Damage.This Eidolon also posses 6 limbs, 2 Knees, 2 Arms, and 2 Back. You must take these out before finally performing the kill/capture. This Eidolon also posses many different attacks and several of them deal moderate to high damage.
+![](../../.gitbook/assets/image%20%2830%29.png)
 
-Enhanced Seeking Bullets:  A sphere of light emitted from the Hydrolyst's back which splits into multiple homing projectiles. These are more accurate than the Teralyst, and are harder to avoid.
+Eidolon Hydrolyst is the third and final boss you encounter after you have successfully captured the Gantulyst meanwhile night time is present, This Eidolon has a series of attacks that do moderate to some what high damage over time, as well as passives.  
+Here are a few notable things about them,
 
-Ground Stomp: Stomps the ground, sending out a ground shockwave that knockbacks back any enemies in its path a great distance \(100 meter radius\). Shortly afterwards, geysers of acid water erupt from the ground, creating bubbles of green energy above them that can be shot at with the Operator. If left unchecked, these bubbles eventually rain down acid rain, turning the ground below into a swamp covering a large area and dealing heavy damage to anything in it. Number of bubbles is increased with each limb destroyed.
+* Most of their attacks can be dodged, But a lot more accurate.
+* Has a passive where it will strike lightning down to each player.
+* Has a total of 6 Synovias/Limbs.
+* Takes a total of 3 charged lures to capture the Hydrolyst.
+* Has attacks that deal Magnetic damage.
+* Has a green column of light to indicate it's spawn location.
+* Weak to Radiation damage if armor is kept, like stated in the "Required Builds" section.
 
-Ground Smash: Smashes the ground, sending out a series of high-damaging, homing quakes to the enemies position. These homing quakes can stun the enemy and are 25m high. These quakes do not return to the Hydrolyst's position, and instead disappear at their stopping point and spawn green bubbles in the air that will slowly float up and grow in size, though they can be shot down using amps. Failing to shoot down these bubbles in time will cause them to detonate, dealing a considerable amount of magnetic damage with a guaranteed magnetic proc in a large area.
+With that being said, this Eidolon also has a lot more rewards then a Teralyst,  
+Here are the rewards.
 
-Gun Swing: Swings its gun arm while firing it in a wide arc, each bullet creating a 2m wide explosion.
+#### If killed
 
-Summoning Scream:  The Hydrolyst glows green and screeches into the air. This will summon and buff Vomvalysts around it, also sending Red Orbs to nearby Vomvalysts, making them a Red Glowing variant armed with an Opticor-like beam that is fired in a cone shape that deals immense damage to Operators and Warframes alike after aiming.
+* 5x Eidolon Shards
+* Sentient Cores
+* 1x Arcane, That arcane can be \/
+* Arcane Trickery \(Bad\)
+* Arcane Velocity \(Good\)
+* Arcane Arachne \(Decent\)
+* Arcane Rage \(Good\)
+* Arcane Fury \(Good\)
+* Arcane Avenger \(Good\)
 
-Regenerating Scream: The Hydrolyst glows green and screeches. This will cause surrounding Vomvalysts \(that are not affected by Summoning Scream\) to link to the Hydrolyst and begin to regenerate its shields. Additionally, this will render it invulnerable to all damage until all linked Vomvalysts are destroyed. Red Glowing Vomvalysts are turned into a Blue Glowing variation which links to near Vomvalysts and has large amounts of Overshields.
+#### If captured
 
-Enhanced Sentient Residue: The Hydrolyst will "bleed" teal blood on the ground after losing at least one of its Synovia, dealing a lot of damage over time to those standing on it.
-
-Enhanced Star Fall: Fires its gun into the sky, causing a rain of explosive, slightly homing projectiles on all targets nearby. The explosives may cause knockdown. Most of the projectiles spawn right under enemies. Base area-of-effect spans a 300m radius.
-
-Vomvalyst Bloom:  Throughout the fight, the Hydrolyst summons Vomvalyst Bloom, purple portals that will periodically spawn buffed variants of the Eidolon Vomvalysts. The blooms can also link to nearby Vomvalysts, making them immune to damage, and charging them up over time. Fully charged Vomvalysts gain a large amount of overshields and are visually indicated by a bright energy aura surrounding them. The Bloom can be destroyed with either Operator attacks or gunfire.
-
-Acid Rain: If at least one limb destroyed, the Hydrolyst will occasionally spawn clouds of acid rain, that cover a wide area, staining the ground green and dealing extreme damage to players standing on it.
-
-EMP Pulses:  The Hydrolyst will periodically emits radial disks of magnetic pulses from its destroyed limbs that can drain the players energy if they come in contact with them. As the battle progresses, the pulses become more frequent. These pulses of magnetic energy are telegraphed - there will be streams of gas-like particles that emit from the ground into a bubble, which grow over time until it bursts to release Energy Spike-like waves that travel much faster and deal significantly more damage.
-
-Passive Lightning: Throughout the fight, the Hydrolyst alters the weather around it, creating clouds of heavy rain and summoning highly damaging lightning. Small ripples of green energy on the floor briefly indicate where the lightning will strike. It seems the lightning cannot hit airborne players.
-
-Energy Spike: The attack Hydrolyst will use upon the destruction of one of his limbs. This will emit five pulses of highly damaging Magnetic damage.
-
-Killing this Eidolon will result in the Hydrolyst dropping 5 Eidolon Shards, some Sentient Cores, and 1 Arcane, That arcane can result in Arcane Trickery \(Niche\) Arcane Velocity \(Good\) Arcane Arachne \(Niche\) Arcane Rage \(Good\) Arcane Fury \(Good\) Arcane Avenger \(Good\).
-
-Capturing this Eidolon will result in the Hydrolyst dropping 5 Eidolon Shards, 2 Brilliant Eidolon Shards, 2 Radiant Eidolon Shards, 2 Riven Transmuters, Hydrolyst Articula, and 1 Arcane, That arcane can result in Arcane Trickery \(Niche\) Arcane Velocity \(Good\) Arcane Arachne \(Niche\) Arcane Rage \(Good\) Arcane Fury \(Good\) Arcane Avenger \(Good\) Arcane Barrier \(Very Good\) Arcane Grace \(Extremely Good\) Arcane Energize \(Extremely Good\).
+* 5x Eidolon Shards
+* 2x Brilliant Eidolon Shards
+* 2x Radiant Ediolon Shards
+* 2x Riven Transmuters
+* 1x Arcane, That arcane can be \/
+* Arcane Trickery \(Bad\)
+* Arcane Velocity \(Good\)
+* Arcane Arachne \(Decent\)
+* Arcane Rage \(Good\)
+* Arcane Fury \(Good\)
+* Arcane Avenger \(Good\)
+* Arcane Barrier \(Very Good\)
+* Arcane Energize \(Extremely Good\)
+* Arcane Grace \(Extremely Good\)
+* Possibly a Hydrolyst Articula
 
 
 

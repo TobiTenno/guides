@@ -8,15 +8,15 @@ description: >-
 
 ### Lure Map
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Amp Parts
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 ### Possible Vomvalyst Spawns
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ### Trustworthy YouTubers
 
