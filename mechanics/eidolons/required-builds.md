@@ -18,7 +18,7 @@ A few notes to go with the following build.
 * Swap out Corrosive Projection for Enemy Radar or Sniper Scavenger if 3 are already present.
 * Arcane Nullifier helps to crutch a poorly timed Harrow cast.
 
-![Chroma](../../.gitbook/assets/image%20%2834%29.png)
+![Chroma](../../.gitbook/assets/image%20%2839%29.png)
 
 ### Volt
 
@@ -32,7 +32,7 @@ A few notes to go with the following build.
 * Swap out Coaction Drift for Handspring if 2 other party members are running CD.
 * Arcane Nullifier helps to crutch a poorly timed Harrow cast.
 
-![Volt](../../.gitbook/assets/image%20%2835%29.png)
+![Volt](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Trinity
 
@@ -45,7 +45,7 @@ A few notes to go with the following build.
 * Swap out Coaction Drift for Handspring if 2 other party members are running CD.
 * Arcane Nullifier helps to crutch a poorly timed Harrow cast.
 
-![Trinity](../../.gitbook/assets/image%20%2818%29.png)
+![Trinity](../../.gitbook/assets/image%20%2819%29.png)
 
 ### Harrow
 
@@ -74,7 +74,7 @@ A few notes to go with the following build.
 * For evidence that PCR deals more damage, here is the math. \(1 + 8.88\)\(1 + \(1.75x1.25\)\(0.9+0.9\)+ 1.25\(1.65\)\) = 69.16 \| Primed Cryo Rounds \(1 + 8.88 + 1.65\)\(1 + \(1.75x1.25\)\(0.9+0.9\)\) = 56.929375 \| Serration
 * If you are running anything else, Serration is fine then.
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 ### Lanka
 
@@ -89,7 +89,7 @@ A few notes to go with the build.
 * Near neutral Duration and Efficiency are key to keep Razorwing up
 * Arcane Velocity is highly important here for maximum fire rate.
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 Following up with the Dex Pixia build that can suffice in Eidolon hunts,  
 A few notes to go with the build.
@@ -99,7 +99,7 @@ A few notes to go with the build.
 * Mandatory to have Primed Target Cracker & Pistol Gambit to enhance Critical Chance & Damage.
 * Mandatory to have Multishot to add more pellets to your shots.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ### Ivara
 
@@ -112,7 +112,7 @@ A few notes to go with the build.
 * Arcane Guardian is highly recommended to reduce the amount of damage you'll take.
 * Empowered Quiver is recommended to increase Critical Damage for your weapon.
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 Following up with the Sancti Castanas build that can suffice in Eidolon hunts,  
 A few notes to go with the build.
@@ -122,7 +122,7 @@ A few notes to go with the build.
 * Mandatory to have Primed Pistol Gambit & Target Cracker to enhance Critical Chance & Damage.
 * Riven mod is recommended because of very high disposition.
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Redeemer
 
@@ -136,7 +136,7 @@ A few notes to go with the build.
 * Radiation damage is mandatory because of the 75% bonus damage to Alloy Armor.
 * If you have a riven, you can replace Organ Shatter.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 ### Garuda
 
@@ -149,7 +149,7 @@ A few notes to go with the build.
 * Dead Eye to increase sniper damage, Can swap out for Steel Charge if running Redeemer Prime.
 * Quick Thinking to stop death since you'll be at 2 hp a lot.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ### Vaykor Hek
 
@@ -163,7 +163,7 @@ A few notes to go with the build.
 * Mandatory to have Multishot because it increases the amount of pellet per shot.
 * Strongly recommend running Vigilante set on a sentinel weapon to boost crits.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 ### Pyrana/Prime
 
@@ -175,7 +175,7 @@ A few notes to go with the build.
 * Radiation damage is mandatory because it deals 75% extra damage to Alloy Armor.
 * Riven mod is highly recommended for more damage output.
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ### Catchmoon
 
@@ -188,7 +188,7 @@ A few notes to go with the build.
 * Riven mod is highly recommended for more damage output.
 * STRONGLY recommended running the combination Catchmoon - Haymaker - Splat for max damage.
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ### Rhino
 
@@ -200,5 +200,77 @@ A few notes to go with the build.
 * Dead Eye is recommended for more sniper damage, and Roar is multiplicative.
 * Arcane Acceleration and Arcane Momentum are recommended to boost your sniper.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
+
+### Ember
+
+Here is the Ember build that can suffice in Eidolon hunts,  
+A few notes to go with the build.
+
+* High duration so Accelerant can last a good amount of time.
+* Mandatory to have Flash Accelerant augment for bonus Heat damage.
+* Steel Fiber + Vitality + Arcane Guardian + Adaptation for bonus tank.
+* Natural Talent + Speed Drift to boost casting speed.
+* Dead Eye to buff sniper damage, Avenger to buff critical chance.
+
+![](../../.gitbook/assets/image%20%2822%29.png)
+
+### Prisma Grinlok
+
+Here is the Prisma Grinlok build that can suffice in Eidolon hunts,  
+A few notes to go with the build.
+
+* Riven is required here, and must have either +ms +cd or +cc +cd.
+* Augment is required to add a major boost in critical chance.
+* Mandatory to stack radiation damage because it deals 75% extra damage to alloy armor.
+* Vile Acceleration is needed for the major boost in fire rate, because you won't one shot with it.
+
+![](../../.gitbook/assets/image%20%2833%29.png)
+
+### Tenora
+
+Here is the Tenora build that can suffice in Eidolon hunts,  
+A few notes to go with the build.
+
+* Riven is required here, and must have either +ms +cd neg or +cc +cd neg.
+* Mandatory to stack radiation damage because it deals 75% extra damage to alloy armor.
+* Vile Acceleration is needed for the major boost in fire rate, because you won't one shot with it.
+
+![](../../.gitbook/assets/image%20%2842%29.png)
+
+### Ferrox
+
+Here is the Ferrox build that can suffice in Eidolon hunts,  
+A few notes to go with the build.
+
+* Riven is required here, and must have either +ms +cd neg or +cc +cd neg.
+* Mandatory to stack radiation damage because it deals 75% extra damage to alloy armor.
+* Vile Acceleration is needed for the major boost in fire rate.
+
+![](../../.gitbook/assets/image%20%2834%29.png)
+
+### Glaive Prime
+
+Here is the Glaive Prime build that can suffice in Eidolon hunts,  
+A few notes to go with the build.
+
+* Sacrifical set bonus lets you deal more damage to sentients.
+* Spoiled Strike helps to increase raw damage, the -attack speed is free since Ivara.
+* Blood Rush, Gladiator Might, Organ Shatter to help with additional crit.
+* Molten Impact + Shocking Touch to stack radiation damage.
+
+![](../../.gitbook/assets/image%20%2812%29.png)
+
+### Wolf Sledge
+
+Here is the Wolf Sledge build that can suffice in Eidolon hunts,  
+A few notes to go with the build.
+
+* Sacrifical set bonus lets you deal more damage to sentients.
+* Spoiled Strike helps to increase raw damage, the -attack speed is free since Ivara.
+* Blood Rush, Gladiator Might, Organ Shatter to help with additional crit.
+* Molten Impact + Shocking Touch to stack radiation damage.
+* Riven is strongly recommended.
+
+![](../../.gitbook/assets/image%20%2838%29.png)
 

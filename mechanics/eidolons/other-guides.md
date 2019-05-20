@@ -8,11 +8,11 @@ description: >-
 
 ### Lure Map
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ### Amp Parts
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 ### Possible Vomvalyst Spawns
 
