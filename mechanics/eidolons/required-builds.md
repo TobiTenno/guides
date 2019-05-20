@@ -91,7 +91,9 @@ A few notes to go with the build.
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 
-Following up with the Dex Pixia build that can suffice in Eidolon hunts,  
+### Dex Pixia
+
+Here is the Dex Pixia build that can suffice in Eidolon hunts,  
 A few notes to go with the build.
 
 * Mandatory to have Hornet Strike and Magnum Force for damage.
