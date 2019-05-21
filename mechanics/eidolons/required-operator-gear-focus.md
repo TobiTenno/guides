@@ -4,7 +4,15 @@ Here is the most vital part in a hunt, because with out a operator you cannot do
 
 ### Amp
 
-So first thing is first, let me explain what a Amp is, The Amp is basically a weapon that goes on your Operator after you have completed The War Within and have spoken to Quill Onkko for the first time at  Cetus. This Amp is much better then your Operator's Chest Beam after The Second Dream and no Amp at all straight after The War Within, When you first speak to Onkko, you will receive your very own Mote Amp, This is a pretty basic amp, but you are NOT ready to do a casual tridolon just yet, With this amp you should kill some Teralyst for standing, rank up within Onkko so you can unlock different parts of Amp combinations, At the rank of Mote \(Which is rank 1\), You should buy the parts, Raplak Prism, Pencha Scaffold, Clapkra Brace, This results in a 1-1-1 Amp, Which is much better then the Mote Amp, And with this you can kill a Tridolon much more efficiently. After you have gathered a lot more standing from a few Tridolons, Rank up further to hit the rank of Adherent \(Which is rank 3\), Now you should of unlocked the best amp possible till you can unlock Vox Solaris standing, Which is a X-2-3\(Prism, Shraksun Scaffold, Lohrin Brace\), X means you can use anything here, because you want the alternate fire \(Which is the Scaffold\) for Eidolon hunts. After you have ranked up with Vox Solaris to the rank of Instrument \(Which is rank 4\), You now have unlocked the best Brace for Eidolon hunts, which is the Certus Brace, Now you can make a X-2-7 \(Prism, Shraksun Scaffold, Certus Brace\). You might wonder why Shraksun over any other Scaffold, This is because Shraksun shoots a flak that can travel up the Eidolons leg which can hit multiple hit boxes, and then do the initial explosion, this results in serious damage, often one shotting with Void Strike stacks.
+After you have completed The War Within and Saya's Vigil, You are now able to head on over to Quill Onkko to speak to him to receive your very own Mote Amp. Note that this amp is NOT good for a Hydrolyst, but you sure do a few Teralyst with it to gain more standing, you want to swap out this amp as soon as possible.
+
+### 1-1-1 Amp
+
+After you have done a few Teralyst with your Mote Amp, you should have gathered enough Sentient Cores to convert into standing to make a 1-1-1 amp, To be more specific, This amp consist of Raplak Prism, Pencha Scaffold, Clapkra Brace. This amp is 100x better then the Mote Amp and will help you out through a Hydrolyst fight.
+
+### X-2-3 Amp
+
+After you have done a few Tridolons with your improved 1-1-1 amp, You should have gathered enough sentient cores to progress through Quill standing to make a X-2-3, To be more specific, X means any prism since alt fire is what you use for Eidolons, Shraksun Scaffold because it is the best scaffold in hunts, Lohrin Brace because you want as much critical chance as you can get in eidolon fights. This amp will serve you well in any scenario, it can even do the most competitive, 6x3.
 
 ![](../../.gitbook/assets/image%20%2847%29.png)
 
@@ -31,6 +39,8 @@ So lets get started with what else you need on your operator, Use this route if 
 17. Vazarin &gt; Rejuvenating Tides UNBOUND
 18. Naramon &gt; Mind Step UNBOUND
 
+### Void Strike
+
 Void Strike is the most important here, what it does is the longer you sit in void mode, the more damage you do for the next 8 shots, and gathering enough damage will result you in one shotting the eidolons shields, amazing right? Use this route if you are playing the damage role.
 
 1. Unairu &gt; Void Spines UNLOCK 
@@ -50,6 +60,8 @@ Void Strike is the most important here, what it does is the longer you sit in vo
 15. Madurai &gt; Eternal Gaze UNBOUND 
 16. Vazarin &gt; Rejuvenating Tides UNBOUND
 17. Naramon &gt; Mind Step UNBOUND
+
+### Unairu Wisp
 
 Unairu Wisp is the most important here, what it does is when you perform a void blast, it has a 100% chance to summon a tiny wisp, when the wisp is picked up by either you or your teammates, your operator damage is increased by 100% for 12 seconds, very amazing to pair with Void Strike users.
 
