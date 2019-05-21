@@ -116,7 +116,9 @@ A few notes to go with the build.
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
-Following up with the Sancti Castanas build that can suffice in Eidolon hunts,  
+### Sancti Castanas
+
+Here is the Sancti Castanas build that can suffice in Eidolon hunts,  
 A few notes to go with the build.
 
 * Mandatory to have Hornet Strike and Magnum Force to increase damage.
