@@ -21,11 +21,11 @@ And those priorities being,
 Here are more specifics to the above notes.
 
 1. Fast charging is grabbing the first lure when you load into the Plains of Eidolon or when the Teralyst is spotted when you are in the Precharge run, Once you have hacked your lure, Fly over to the front of the gate and look for Vomvalyst to quickly charge the lure, Once you have charged the lure, fly over to the Teralyst and break the limb. \(Also note Trinity will drop you 2 lures, make sure to pick and charge those throughout the Teralyst fight.\)
-2. Since you are supposed to run Unairu Wisp, You are required to be able to drop some Wisp for the people that are running Void Strike. When you get back from the Fast Charge, you can spawn wisp under the Teralyst. When the eidolon is down for Energy Spike, spam wisp before, through, and after energy spike.
+2. Since you are supposed to run Unairu Wisp, You are required to be able to drop some Wisp for the people that are running Void Strike. When you get back from the Fast Charge, you can spawn wisp under the Teralyst. When the eidolon is down for Energy Spike, spam wisp before, through, and after energy spike. \(There are two spots where you can spawn Wisp, One of the methods is climbing up right knee and start spamming Wisp on the waist, Another method is walking up the left foot and spam E, Both methods will spawn Wisp under neath the eidolon.
 3. Make sure that you have enough damage buff to effectively kill a limb.
 4. If you are running a weapon that requires combo, shoot in between animations to maintain combo.
 5. If the Trinity is short a lure, fly out and grab the missing amount of lures and return to the Eidolon.
-6. When the eidolon is in healing phase, there will be a bunch of Vomvalyst from different directions to come heal the eidolon, The lures can intercept and charge up.
+6. When the eidolon enters healing phase, There will be Vomvalyst coming from different directions, or before he begins yelling, Vomvalyst will spawn under the eidolon, The uncharged lures can intercept and take those Vomvalyst and charge quicker.
 
 ### Trinity
 
