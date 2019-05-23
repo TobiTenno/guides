@@ -24,10 +24,6 @@
 * [Orb Vallis Gameplay](mechanics/orb-vallis-gameplay.md)
 * [Baro Ki'Teer Recommendations](mechanics/current-recommendations.md)
 * [Prime Access](mechanics/prime-access.md)
-* [Apothics](mechanics/apothics.md)
-* [Corrupted Mods](mechanics/corrupted-mods.md)
-* [Damage Types](mechanics/damage-types.md)
-* [What's that icon?](mechanics/whats-that-icon.md)
 
 ## About the Contributors
 
@@ -36,4 +32,11 @@
 ## Other Guides
 
 * [Listing](other-guides/listing.md)
+* [Shareable Infographics](other-guides/shareable-infographics/README.md)
+  * [Generalized Progress](other-guides/shareable-infographics/generalized-progress.md)
+  * [Damage Types](other-guides/shareable-infographics/damage-types.md)
+  * [What's that icon?](other-guides/shareable-infographics/whats-that-icon.md)
+  * [Corrupted Mods](other-guides/shareable-infographics/corrupted-mods.md)
+  * [Apothics](other-guides/shareable-infographics/apothics.md)
+  * [Tenno Info Infographics](other-guides/shareable-infographics/tenno-info-infographics.md)
 
