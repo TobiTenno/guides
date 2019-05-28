@@ -38,5 +38,10 @@
   * [What's that icon?](other-guides/shareable-infographics/whats-that-icon.md)
   * [Corrupted Mods](other-guides/shareable-infographics/corrupted-mods.md)
   * [Apothics](other-guides/shareable-infographics/apothics.md)
-  * [Tenno Info Infographics](other-guides/shareable-infographics/tenno-info-infographics.md)
+  * [Tenno Info Infographics](other-guides/shareable-infographics/tenno-info-infographics/README.md)
+    * [Newbies](other-guides/shareable-infographics/tenno-info-infographics/newbies.md)
+    * [Farmers](other-guides/shareable-infographics/tenno-info-infographics/farmers.md)
+    * [Fighters](other-guides/shareable-infographics/tenno-info-infographics/fighters.md)
+    * [Frames](other-guides/shareable-infographics/tenno-info-infographics/frames.md)
+    * [Quest Unlocks](other-guides/shareable-infographics/tenno-info-infographics/quest-unlocks.md)
 
