@@ -44,4 +44,5 @@
     * [Fighters](other-guides/shareable-infographics/tenno-info-infographics/fighters.md)
     * [Frames](other-guides/shareable-infographics/tenno-info-infographics/frames.md)
     * [Quest Unlocks](other-guides/shareable-infographics/tenno-info-infographics/quest-unlocks.md)
+* [Past Events & Old Guides](other-guides/old.md)
 
