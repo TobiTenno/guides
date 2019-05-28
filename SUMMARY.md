@@ -17,6 +17,7 @@
   * [Required Builds](mechanics/eidolons/required-builds.md)
   * [Required Operator Gear/Focus](mechanics/eidolons/required-operator-gear-focus.md)
   * [Role Jobs](mechanics/eidolons/role-jobs.md)
+  * [Commonly asked questions](mechanics/eidolons/commonly-asked-questions.md)
   * [Other Guides](mechanics/eidolons/other-guides.md)
 * [Arbitrations](mechanics/arbitrations.md)
 * [Affinity](mechanics/affinity.md)
