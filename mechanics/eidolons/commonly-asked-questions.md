@@ -52,8 +52,20 @@ Example if you did a 3x3, you captured 3 Hydrolyst in one night cycle, etc etc.
 Vex Armor is additive with +damage type mods, meaning it acts as one big Serration.  
 Elementals will scale a bunch better with Vex Armor so you would refer to use Primed Cryo Rounds or Wildfire in the place of Serration, Primed Cryo Rounds deals an extra 25% damage to Alloy Armor, Wildfire helps to stack Radiation if you do not own Primed Cryo Rounds.  
   
-Here is the math to prove that PCR does more then Serration.  
-\(1 + 8.88\)\(1 + \(1.75x1.25\)\(0.9+0.9\)+ 1.25\(1.65\)\) = 69.16 \| Primed Cryo Rounds   
-\(1 + 8.88 + 1.65\)\(1 + \(1.75x1.25\)\(0.9+0.9\)\) = 56.929375 \| Serration  
+Here is the math to prove that PCR does more then Serration.
+
+####  Primed Cryo Rounds
+
+$$
+(1 + 8.88)(1 + (1.75x1.25)(0.9+0.9)+ 1.25(1.65)) = 69.16
+$$
+
+#### Serration
+
+$$
+(1 + 8.88 + 1.65)(1 + (1.75x1.25)(0.9+0.9)) = 56.929375
+$$
+
+  
 8.88 represents 888% Vex Armor, just replace the number with your own Vex Armor for calculations.
 
