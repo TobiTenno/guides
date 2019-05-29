@@ -4,7 +4,7 @@ description: These are the places to get desired warframe.
 
 # Warframe Acquisition
 
-### Base variant warframes
+### Warframes
 
 * Ash - Acquired from Grineer Manics, Body blueprint from the Market.
 * Atlas - Acquired from Jordas Golem Assassination on Eris, Body blueprint from Jordas Precept quest.
@@ -46,10 +46,13 @@ description: These are the places to get desired warframe.
 * Volt - Can be replicated from the Tenno Lab in the clan Dojo.
 * Wukong - Can be replicated from the Tenno Lab in the clan Dojo.
 * Zephyr - Can be replicated from the Tenno Lab in the clan Dojo.
-* Wisp - ???
+* Wisp - Blueprint & components acquired from the Ropalolyst on Jupiter.
+
+### Other Variants
+
 * Excalibur Umbra - The Sacrifice quest.
 
-### Prime variant warframes
+### Prime Variants
 
 * Ash Prime - Vaulted
 * Banshee Prime - Vaulted
