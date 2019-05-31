@@ -22,8 +22,6 @@ Players can engage in spearfishing to catch various servofish, which can be used
 There are multiple different types of servofish,  
 And those are,
 
-
-
 | Species | Location | Time | Hotspot | Resource | Basic | Adorned | Magnificent |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Sapcaddy | Lake | Cold | No | Venedo Case | 3 Scrap/35 Standing | 4 Scrap/45 Standing | 5 Scrap/70 Standing |

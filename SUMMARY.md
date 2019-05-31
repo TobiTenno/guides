@@ -21,10 +21,13 @@
   * [Other Guides](mechanics/eidolons/other-guides.md)
 * [Arbitrations](mechanics/arbitrations.md)
 * [Affinity](mechanics/affinity.md)
+* [Current Baro Rotations](mechanics/current-recommendations.md)
+* [Ephemera Acquistions](mechanics/ephemera-acquistions.md)
+* [Events](mechanics/prime-access.md)
+* [Modding](mechanics/modding.md)
+* [The Index \(Easily\)](mechanics/the-index-easily.md)
 * [Warframe Acquisition](mechanics/warframe-acquisition.md)
 * [Orb Vallis Gameplay](mechanics/orb-vallis-gameplay.md)
-* [Baro Ki'Teer Recommendations](mechanics/current-recommendations.md)
-* [Prime Access](mechanics/prime-access.md)
 
 ## About the Contributors
 
