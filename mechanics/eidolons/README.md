@@ -26,7 +26,7 @@ Here are a few notable things about them,
 
 ## Eidolon Lures
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 Eidolon Lures are Grineer machines found in the Plains of Eidolon at Grineer encampments during night time cycle. These can be hacked with Ciphers, so it is recommended to get some for these guys.   
 Here are a few notable things about them,
@@ -38,7 +38,7 @@ Here are a few notable things about them,
 
 ## Eidolon Teralyst
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 Eidolon Teralyst is the first boss you encounter when night time is present, This eidolon has a series of attacks that can do moderate damage.  
 Here are a few notable things about them,
@@ -134,7 +134,7 @@ Here are the rewards.
 
 ## Eidolon Hydrolyst
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 Eidolon Hydrolyst is the third and final boss you encounter after you have successfully captured the Gantulyst meanwhile night time is present, This Eidolon has a series of attacks that do moderate to some what high damage over time, as well as passives.  
 Here are a few notable things about them,

@@ -4,6 +4,8 @@ description: All of these builds have been tested in hunts and are viable.
 
 # Required Builds
 
+
+
 Here are some of the builds that can suffice in any scenario during eidolon hunts.
 
 ### Chroma
@@ -19,7 +21,7 @@ A few notes to go with the following build.
 * Corrosive Projection is a place holder here, only use if you there are less then 3 present in the squad. - Other options are Enemy Radar, or Sniper Scavenger. Dead Eye is you are too lazy to forma the Aura.
 * Arcane Nullifier is a place holder here, you can use these if you wish, - Arcane Acceleration and Arcane Momentum are other viable options, - Arcane Avenger for cases where you need the critical chance boost.
 
-![Chroma](../../.gitbook/assets/image%20%2842%29.png)
+![Chroma](../../.gitbook/assets/image%20%2844%29.png)
 
 ### Volt
 
@@ -32,7 +34,7 @@ A few notes to go with the following build.
 * Range and Strength do not affect your shields, so having negative-neutral is fine.
 * Arcane Nullifier is good here because of 3 reasons, - Magnetic procs from Hydrolyst attacks to ruin your energy. - Bad timed Harrow cast, you can just stay in Operator mode and you won't lose energy. - Accidentally stepping into ponds to ruin your energy.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 ### Trinity
 
@@ -46,7 +48,7 @@ A few notes to go with the following build.
 * Coaction Drift is a place holder here, you only need 3 Corrosive Projection 2 Coaction Drift total, - If there are already 2 Coaction Drift present, replace it with Handspring.
 * Arcane Nullifier is good here because of 3 reasons, - Magnetic procs from Hydrolyst attacks to ruin your energy. - Bad timed Harrow cast, you can just stay in Operator mode and you won't lose energy. - Accidentally stepping into ponds to ruin your energy.
 
-![Trinity](../../.gitbook/assets/image%20%2821%29.png)
+![Trinity](../../.gitbook/assets/image%20%2822%29.png)
 
 ### Harrow
 
@@ -62,7 +64,7 @@ A few notes to go with the following build.
 * Coaction Drift is a place holder here, you only need 3 Corrosive Projection 2 Coaction Drift total, - If there are already 2 Coaction Drift present, replace it with Handspring.
 * Arcane Nullifier is good here because of 3 reasons, - Magnetic procs from Hydrolyst attacks to ruin your energy. - Bad timed Harrow cast, you can just stay in Operator mode and you won't lose energy. - Accidentally stepping into ponds to ruin your energy.
 
-![Harrow](../../.gitbook/assets/image%20%286%29.png)
+![Harrow](../../.gitbook/assets/image%20%287%29.png)
 
 ### Rubico/Prime
 
@@ -76,7 +78,7 @@ A few notes to go with the following build.
 * Mandatory to use Split Chamber and Vigilante Armaments for the additional multishot.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire. \(1 + 8.88\)\(1 + \(1.75x1.25\)\(0.9+0.9\)+ 1.25\(1.65\)\) = 69.16 \| Primed Cryo Rounds  \(1 + 8.88 + 1.65\)\(1 + \(1.75x1.25\)\(0.9+0.9\)\) = 56.929375 \| Serration
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 ### Lanka
 
@@ -92,7 +94,7 @@ A few notes to go with the build.
 * Range is not needed because you're only using Razorwing which isn't affected by it.
 * Arcane Velocity is good here because of the additional fire rate to boost Dex Pixia. - Can replace one of the Velocities for a Guardian for more survivability.
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 ### Dex Pixia
 
@@ -105,7 +107,7 @@ A few notes to go with the build.
 * Mandatory to use Lethal Torrent and Barrel Diffusion for the additional multishot.
 * Mandatory to use Primed Pistol Gambit and Primed Target Cracker, - The Eidolons are status immune, so you build for raw crit with 90/165% elementals and multishot.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ### Ivara
 
@@ -119,7 +121,7 @@ A few notes to go with the build.
 * Enemy Radar is a place holder here, There are other options viable for Ivara. - Other options are Corrosive Projection and Speed Holder. - Only use Corrosive Projection if you are short 3 total.
 * Strongly recommend running double Arcane Guardian because Ivara is squishy, and Guardian helps.
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 ### Sancti Castanas
 
@@ -134,7 +136,7 @@ A few notes to go with the build.
 * Hollow Point vs Augur Pact is still being tested, but they both work with Empowered Quiver.
 * Riven Mod is strongly recommended due to very high disposition.
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 ### Redeemer
 
@@ -149,7 +151,7 @@ A few notes to go with the build.
 * Gladiator Vice over Berserker/Primed Fury because of the set bonus, which helps Blood Rush. - You can also run the other Gladiator mods on Deconstructor to boost the set bonus.
 * Organ Shatter is a flex mod here, If you have a Riven, you can replace it with the Riven.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 ### Garuda
 
@@ -164,7 +166,7 @@ A few notes to go with the build.
 * Mandatory to run Vigorous Swap for the added damage boost.
 * Arcane Acceleration and Momentum are if you are running a Sniper, - Other options are Arcane Avenger in the case of you are running Redeemer Prime.
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 ### Pyrana/Prime
 
@@ -179,7 +181,7 @@ A few notes to go with the build.
 * Riven is recommended for the pretty high Disposition.
 * Recommended to run at least 1 Arcane Velocity to boost fire rate.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 ### Catchmoon
 
@@ -195,7 +197,7 @@ A few notes to go with the build.
 * Recommended Catchmoon kitgun build is Catchmoon - Haymaker - Splat for maximum damage.
 * Recommended to run at least 1 Arcane Velocity to boost fire rate.
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 ### Rhino
 
@@ -209,7 +211,7 @@ A few notes to go with the build.
 * Dead Eye is useful here because the damage buff from Roar is multiplicative to +damage mods.
 * Arcane Acceleration and Momentum are useful here if you are running a Sniper.
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Ember
 
@@ -222,7 +224,7 @@ A few notes to go with the build.
 * Must build for super high Casting Speed to cast your abilities at a good rate.
 * Arcane Avenger and Arcane Guardian are good here for boosting critical chance and armor.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 ### Prisma Grinlok
 
@@ -237,7 +239,7 @@ A few notes to go with the build.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire.
 * Riven is required, stats on the riven must be at least, - +Multishot +Critical Damage, or +Critical Chance +Critical Damage.
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 ### Tenora
 
@@ -252,7 +254,7 @@ A few notes to go with the build.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire.
 * Riven is required, stats on the riven must be at least, - +Multishot +Critical Damage, or +Critical Chance +Critical Damage.
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ### Ferrox
 
@@ -267,7 +269,7 @@ A few notes to go with the build.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire.
 * Riven is required, stats on the riven must be at least, - +Multishot +Critical Damage -Negative, or +Critical Chance +Critical Damage -Negative. - Since the riven has high disposition, you are capped on +critical chance so hammer shot helps.
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ### Glaive Prime
 
@@ -279,7 +281,7 @@ A few notes to go with the build.
 * Spoiled Strike increases raw damage, the -attack speed is free with Navigator.
 * Organ Shatter and Gladiator Might to boost critical damage, - If you have a Riven, you can replace Gladiator Might.
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 ### Wolf Sledge
 
@@ -292,7 +294,7 @@ A few notes to go with the build.
 * Organ Shatter and Gladiator Might to boost critical damage,
 * Riven is required.
 
-![](../../.gitbook/assets/image%20%2841%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ### Octavia
 
@@ -305,5 +307,39 @@ A few notes to go with the build.
 * Streamline helps to casting 4th at a effective time.
 * Arcane Avenger helps to boost critical chance, - Other options are Arcane Nullifier to help against magnetic procs or water.
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
+
+### Cerata
+
+Here is the Cerata build that can suffice for self damaging purposes.  
+A few notes to go with the build.
+
+* Must have a one handed secondary out to be able to hit the ground below you.
+* Must build for attack speed to throw it quicker.
+* Must have primed pressure point/regular and primed fever strike/fever strike to boost damage.
+* Must have Power Throw and Quick Return.
+
+![](../../.gitbook/assets/image%20%2828%29.png)
+
+### Hikou Prime
+
+Here is the Hikou Prime build that can suffice for self damaging purposes.  
+A few notes to go with the build.
+
+* Damage mods do NOT affect Concealed Explosives
+* Must have the mod Concealed Explosives
+* Fire rate helps to build the buff faster.
+
+![](../../.gitbook/assets/image%20%2845%29.png)
+
+### Itzal
+
+Here is the Itzal build that can suffice in Eidolon hunts.  
+A few notes to go with the build.
+
+* Must build for high efficiency.
+* Must build for high range.
+* Cold snap is optional, recommended for the fast charge though.
+
+![](../../.gitbook/assets/image%20%285%29.png)
 
