@@ -22,8 +22,10 @@
 * [Arbitrations](mechanics/arbitrations.md)
 * [Affinity](mechanics/affinity.md)
 * [Current Baro Rotations](mechanics/current-recommendations.md)
+* [Cephalon Simaris Guide](mechanics/cephalon-simaris-guide.md)
 * [Ephemera Acquistions](mechanics/ephemera-acquistions.md)
 * [Events](mechanics/prime-access.md)
+* [Future Prime Frames Sequence](mechanics/future-prime-frames-sequence.md)
 * [Modding](mechanics/modding.md)
 * [The Index \(Easily\)](mechanics/the-index-easily.md)
 * [Warframe Acquisition](mechanics/warframe-acquisition.md)
@@ -35,6 +37,7 @@
 
 ## Other Guides
 
+* [Kubrow Breeding](other-guides/kubrow-breeding.md)
 * [Listing](other-guides/listing.md)
 * [Shareable Infographics](other-guides/shareable-infographics/README.md)
   * [Generalized Progress](other-guides/shareable-infographics/generalized-progress.md)

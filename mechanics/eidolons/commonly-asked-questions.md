@@ -52,20 +52,24 @@ Example if you did a 3x3, you captured 3 Hydrolyst in one night cycle, etc etc.
 Vex Armor is additive with +damage type mods, meaning it acts as one big Serration.  
 Elementals will scale a bunch better with Vex Armor so you would refer to use Primed Cryo Rounds or Wildfire in the place of Serration, Primed Cryo Rounds deals an extra 25% damage to Alloy Armor, Wildfire helps to stack Radiation if you do not own Primed Cryo Rounds.  
   
-Here is the math to prove that PCR does more then Serration.
+Here is the math to prove that PCR deals more then Serration.
 
 ####  Primed Cryo Rounds
 
-$$
-(1 + 8.88)(1 + (1.75x1.25)(0.9+0.9)+ 1.25(1.65)) = 69.16
-$$
+* \(1 + 8.88\)\(1 + \(1.75x1.25\)\(0.9+0.9\)+ 1.25\(1.65\)\) = 69.16
 
 #### Serration
 
-$$
-(1 + 8.88 + 1.65)(1 + (1.75x1.25)(0.9+0.9)) = 56.929375
-$$
+* \(1 + 8.88 + 1.65\)\(1 + \(1.75x1.25\)\(0.9+0.9\)\) = 56.929375
 
-  
-8.88 represents 888% Vex Armor, just replace the number with your own Vex Armor for calculations.
+8.88 represents 888% Fury Vex Armor, just replace the number with your own Vex Armor for calculations.
+
+### How do i proc Virtuous Shadow?
+
+Virtuous Shadow, which i agree with, can be a big pain to proc,  
+But thankfully another experienced hunter by the name of effion\#8506 has made a descriptive video  
+on how to proc Virtuous Shadow quite easily.  
+[https://www.youtube.com/watch?v=KzWeU6h\_wco](https://www.youtube.com/watch?v=KzWeU6h_wco)
+
+
 

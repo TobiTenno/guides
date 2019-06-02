@@ -316,7 +316,7 @@ A few notes to go with the build.
 
 * Must have a one handed secondary out to be able to hit the ground below you.
 * Must build for attack speed to throw it quicker.
-* Must have primed pressure point/regular and primed fever strike/fever strike to boost damage.
+* Must have Primed Pressure Point/regular and Primed Fever Strike/fever strike to boost damage. - Fever Strike is here to boost the innate toxin on Cerata, making it easier to one hit buff.
 * Must have Power Throw and Quick Return.
 
 ![](../../.gitbook/assets/image%20%2829%29.png)

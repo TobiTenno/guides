@@ -21,8 +21,7 @@ description: These are the places to get desired warframe.
 * Hildryn - Acquired from Exploiter Orb, Body blueprint from Vox Solaris standing.
 * Hydroid - Acquired from Vay Hek on Earth, Body blueprint from the Market.
 * Inaros - All components come from the Sands of Inaros quest that Baro brings.
-* Ivara - Acquired from Spy nodes, See the below message for specifics.
-* Blueprint/Neuroptics - Uranus/Neptune/Pluto/Sedna \| Chassis - Ceres/Jupiter/Europa/Saturn/Lua \| Systems - Earth/Venus/Mercury/Mars/Phobos
+* Ivara - Acquired from Spy nodes, See the below message for specifics. - Blueprint/Neuroptics - Uranus/Neptune/Pluto/Sedna \| Chassis - Ceres/Jupiter/Europa/Saturn/Lua \| Systems - Earth/Venus/Mercury/Mars/Phobos
 * Khora - All components come from Sanctuary Onslaught rotations.
 * Limbo - Acquired from the Limbo Theorem quest, Body blueprint from the Market.
 * Loki - Acquired from the Hyena Pack on Neptune, Body blueprint from the Market.

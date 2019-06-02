@@ -4,7 +4,7 @@ Here is the most vital part in a hunt, because with out a operator you cannot do
 
 ### Amp
 
-After you have completed The War Within and Saya's Vigil, You are now able to head on over to Quill Onkko to speak to him to receive your very own Mote Amp. Note that this amp is NOT good for a Hydrolyst, but you sure do a few Teralyst with it to gain more standing, you want to swap out this amp as soon as possible.
+After you have completed The War Within and Saya's Vigil, You are now able to head on over to Quill Onkko to speak to him to receive your very own Mote Amp. Note that this amp is NOT good for a Hydrolyst, but you sure can do a few Teralyst with it to gain more standing, you want to swap out this amp as soon as possible.
 
 ### 1-1-1 Amp
 
@@ -12,7 +12,7 @@ After you have done a few Teralyst with your Mote Amp, you should have gathered 
 
 ### X-2-3 Amp
 
-After you have done a few Tridolons with your improved 1-1-1 amp, You should have gathered enough sentient cores to progress through Quill standing to make a X-2-3, To be more specific, X means any prism since alt fire is what you use for Eidolons, Shraksun Scaffold because it is the best scaffold in hunts, Lohrin Brace because you want as much critical chance as you can get in eidolon fights. This amp will serve you well in any scenario, it can even do the most competitive, 6x3.
+After you have done a few Tridolons with your improved 1-1-1 amp, You should have gathered enough sentient cores to progress through Quill standing to make a X-2-3, To be more specific, X means any prism since the alt fire is what you use for Eidolons, Shraksun Scaffold because it is the best scaffold in hunts, Lohrin Brace because you want as much critical chance as you can get in eidolon fights. This amp will serve you well in any scenario, it can even do the most competitive, 6x3.
 
 ### X-2-7 Amp
 
