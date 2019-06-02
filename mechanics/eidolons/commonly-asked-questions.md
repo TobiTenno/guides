@@ -56,13 +56,13 @@ Here is the math to prove that PCR deals more then Serration.
 
 ####  Primed Cryo Rounds
 
-* \(1 + 8.88\)\(1 + \(1.75x1.25\)\(0.9+0.9\)+ 1.25\(1.65\)\) = 69.16
+* 1 x \(1 + 9.15\) x \(1 + 0.9 x 2 + 1.65\) = 45.1675
 
 #### Serration
 
-* \(1 + 8.88 + 1.65\)\(1 + \(1.75x1.25\)\(0.9+0.9\)\) = 56.929375
+* 1 x \(1 + 9.15 + 1.65\) x \(1 + 0.9 x 2\) = 33.04
 
-8.88 represents 888% Fury Vex Armor, just replace the number with your own Vex Armor for calculations.
+9.15 represents 915% Fury from Vex Armor, Just replace the number with your own Fury for your own calculations.
 
 ### How do i proc Virtuous Shadow?
 

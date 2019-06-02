@@ -76,7 +76,8 @@ A few notes to go with the following build.
 * Mandatory to use Point Strike and Vital Sense, - The Eidolons are status immune, so you build for raw crit with 90% elementals and multishot.
 * Vile Acceleration helps with fire rate to build up combo, this is also the flex slot, - Mods that can replace Vile Acceleration is Argon Scope or a Riven Mod.
 * Mandatory to use Split Chamber and Vigilante Armaments for the additional multishot.
-* Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire. \(1 + 8.88\)\(1 + \(1.75x1.25\)\(0.9+0.9\)+ 1.25\(1.65\)\) = 69.16 \| Primed Cryo Rounds  \(1 + 8.88 + 1.65\)\(1 + \(1.75x1.25\)\(0.9+0.9\)\) = 56.929375 \| Serration
+* Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire. 1 x \(1 + 9.15\) x \(1 + 0.9 x 2 + 1.65\) = 45.1675 with Primed Cryo Rounds 1 x \(1 + 9.15\) x \(1+ 0.9 x 2 + 0.6\) = 34.51 with Wildfire
+* 1 x \(1 + 9.15 + 1.65\) x \(1 + 0.9 x 2\) = 33.04 with Serration
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
