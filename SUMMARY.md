@@ -37,6 +37,7 @@
 
 ## Other Guides
 
+* [Warframe Handbook](other-guides/warframe-handbook.md)
 * [Kubrow Breeding](other-guides/kubrow-breeding.md)
 * [Listing](other-guides/listing.md)
 * [Shareable Infographics](other-guides/shareable-infographics/README.md)
