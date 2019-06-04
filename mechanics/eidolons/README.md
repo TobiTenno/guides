@@ -188,5 +188,7 @@ Here are the rewards.
 
 {% page-ref page="role-jobs.md" %}
 
+{% page-ref page="commonly-asked-questions.md" %}
+
 {% page-ref page="other-guides.md" %}
 
