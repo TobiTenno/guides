@@ -6,6 +6,8 @@ description: 'Credit to Sintharius#4284 for the current recommendation list.'
 
 This will reset every time baro comes around.
 
+#### UPDATED 5/31/2019
+
 ### Baro on PC:
 
 * Primed Charged Shell - Very important for Radiation/Corrosive shotguns.
