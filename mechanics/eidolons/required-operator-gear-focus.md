@@ -22,7 +22,7 @@ Now comes the best amp into play, After you have gotten through the ranks of Vox
 
 Here comes the amp that is surely different then the X-2-7, Instead of using the Shraksun Scaffold, you replace it with the Propa Scaffold, which fires a ball that travels up to 2 meters, which explodes on contact or it will automatically explode after 3 seconds of flight, This amp requires more coordination to suffice in a 4x3/5x3/6x3. Unless you instantly detonate it, you have to time it properly to detonate as soon as shields go up.
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 ### Focus
 

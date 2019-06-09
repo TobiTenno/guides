@@ -21,7 +21,7 @@ A few notes to go with the following build.
 * Corrosive Projection is a place holder here, only use if you there are less then 3 present in the squad. - Other options are Enemy Radar, or Sniper Scavenger. Dead Eye is you are too lazy to forma the Aura.
 * Arcane Nullifier is a place holder here, you can use these if you wish, - Arcane Acceleration and Arcane Momentum are other viable options, - Arcane Avenger for cases where you need the critical chance boost.
 
-![Chroma](../../.gitbook/assets/image%20%2845%29.png)
+![Chroma](../../.gitbook/assets/image%20%2847%29.png)
 
 ### Volt
 
@@ -95,7 +95,7 @@ A few notes to go with the build.
 * Range is not needed because you're only using Razorwing which isn't affected by it.
 * Arcane Velocity is good here because of the additional fire rate to boost Dex Pixia. - Can replace one of the Velocities for a Guardian for more survivability.
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 ### Dex Pixia
 
@@ -117,12 +117,12 @@ A few notes to go with the build.
 
 * Must build for super high Strength to get a high damage multiplier from Navigator/Artemis Bow.
 * Must build for high Efficiency to maintain energy, since Navigator will drain it quick.
-* Empowered Quiver for the additional Critical Damage while on wire, helps to one shot.
-* Handspring for Exilus for the quality of life.
-* Enemy Radar is a place holder here, There are other options viable for Ivara. - Other options are Corrosive Projection and Speed Holder. - Only use Corrosive Projection if you are short 3 total.
-* Strongly recommend running double Arcane Guardian because Ivara is squishy, and Guardian helps.
+* Adaptation at rank 8 to help with tanking, because Ivara is squishy.
+* Synth Reflex to help with Vigorous Swap.
+* Speed Holster is a place holder here, but wanted, There are other options viable for Ivara. - Other options are Corrosive Projection and Enemy Radar - Only use Corrosive Projection if you are short 3 total.
+* Strongly recommend running double Arcane Guardian because Ivara is squishy.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2842%29.png)
 
 ### Sancti Castanas
 
@@ -134,10 +134,10 @@ A few notes to go with the build.
 * Mandatory to use the 90/165% elemental mods over the 60% elemental mods. - The Eidolons are status immune, so 60% elementals are irrelevant.
 * Mandatory to use Primed Pistol Gambit and Primed Target Cracker, - The Eidolons are status immune, so you build for raw crit with 90/165% elementals.
 * Multishot is not needed here because Navigator does not pick up multishot.
-* Hollow Point vs Augur Pact is still being tested, but they both work with Empowered Quiver.
+* Jolt is better than Augur Pact and Hollow Point, - If you do not own a Jolt, Either work for convenience.
 * Riven Mod is strongly recommended due to very high disposition.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ### Redeemer
 
@@ -152,7 +152,7 @@ A few notes to go with the build.
 * Gladiator Vice over Berserker/Primed Fury because of the set bonus, which helps Blood Rush. - You can also run the other Gladiator mods on Deconstructor to boost the set bonus.
 * Organ Shatter is a flex mod here, If you have a Riven, you can replace it with the Riven.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 ### Garuda
 
@@ -167,7 +167,7 @@ A few notes to go with the build.
 * Mandatory to run Vigorous Swap for the added damage boost.
 * Arcane Acceleration and Momentum are if you are running a Sniper, - Other options are Arcane Avenger in the case of you are running Redeemer Prime.
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 ### Pyrana/Prime
 
@@ -198,7 +198,7 @@ A few notes to go with the build.
 * Recommended Catchmoon kitgun build is Catchmoon - Haymaker - Splat for maximum damage.
 * Recommended to run at least 1 Arcane Velocity to boost fire rate.
 
-![](../../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 ### Rhino
 
@@ -212,7 +212,7 @@ A few notes to go with the build.
 * Dead Eye is useful here because the damage buff from Roar is multiplicative to +damage mods.
 * Arcane Acceleration and Momentum are useful here if you are running a Sniper.
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ### Ember
 
@@ -240,7 +240,7 @@ A few notes to go with the build.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire.
 * Riven is required, stats on the riven must be at least, - +Multishot +Critical Damage, or +Critical Chance +Critical Damage.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ### Tenora
 
@@ -255,7 +255,7 @@ A few notes to go with the build.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire.
 * Riven is required, stats on the riven must be at least, - +Multishot +Critical Damage, or +Critical Chance +Critical Damage.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 ### Ferrox
 
@@ -270,7 +270,7 @@ A few notes to go with the build.
 * Primed Cryo Rounds goes over Serration if you are running Chroma, - Vex Armor acts like one big Serration and is additive to +damage mods, including rivens. - If you do not own a Primed Cryo Rounds, you can replace it with Wildfire.
 * Riven is required, stats on the riven must be at least, - +Multishot +Critical Damage -Negative, or +Critical Chance +Critical Damage -Negative. - Since the riven has high disposition, you are capped on +critical chance so hammer shot helps.
 
-![](../../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Glaive Prime
 
@@ -282,7 +282,7 @@ A few notes to go with the build.
 * Spoiled Strike increases raw damage, the -attack speed is free with Navigator.
 * Organ Shatter and Gladiator Might to boost critical damage, - If you have a Riven, you can replace Gladiator Might.
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Wolf Sledge
 
@@ -295,7 +295,7 @@ A few notes to go with the build.
 * Organ Shatter and Gladiator Might to boost critical damage,
 * Riven is required.
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 ### Octavia
 
@@ -331,7 +331,7 @@ A few notes to go with the build.
 * Must have the mod Concealed Explosives
 * Fire rate helps to build the buff faster.
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ### Itzal
 
