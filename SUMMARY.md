@@ -30,6 +30,16 @@
 * [The Index \(Easily\)](mechanics/the-index-easily.md)
 * [Warframe Acquisition](mechanics/warframe-acquisition.md)
 * [Orb Vallis Gameplay](mechanics/orb-vallis-gameplay.md)
+* [Riven Mods](mechanics/riven-mods/README.md)
+  * [Status Chance](mechanics/riven-mods/status-chance.md)
+  * [Riven Suffixes](mechanics/riven-mods/riven-suffixes.md)
+  * [Kuva Min/Max w/Charm](mechanics/riven-mods/kuva-min-max-w-charm.md)
+  * [Reroll & Kuva Costs](mechanics/riven-mods/reroll-and-kuva-costs.md)
+  * [Abbreviations](mechanics/riven-mods/abbreviations.md)
+  * [Negative IPS](mechanics/riven-mods/negative-ips.md)
+  * [Latest Disposition Changes](mechanics/riven-mods/latest-disposition-changes.md)
+  * [Riven Mod Endo Return Formula](mechanics/riven-mods/riven-mod-endo-return-formula.md)
+  * [Other Assets](mechanics/riven-mods/other-assets.md)
 
 ## About the Contributors
 
