@@ -28,13 +28,13 @@ additional fire rate, since Umbra has infinite magazine with the Kohm.
 
 For this area, you’ll want to head to the enemy side of the map \(the one that’s chrome/the one that you put points on\). Once you get there, there’ll be 2 boxes near the place where you score your points. Once you reach these, you stand on top of the box to the left of the point are scored \(facing inward towards the map\). Once this has been done, you have to keep looking at the barrels which I’m looking at on the pic below: 
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 ### Inside Map: 
 
 For this area, you’ll want to head to the enemy side of the map \(the one that’s chrome/the one that you put points on\). Once you get there, there’ll be a ledge on top of the hallway leading to the staircase. You’ll want to stand on this, then leave umbra. This will teleport him below, on to the bunker protecting the place where points are scored. Once this has been done, you have to look within the area which I marked below:
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### How it works: 
 

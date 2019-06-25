@@ -1,88 +1,150 @@
 # Required Operator Gear/Focus
 
-Here is the most vital part in a hunt, because with out a operator you cannot do a eidolon hunt, because like stated earlier, you need a operator to deplete the eidolons shields.
+##  Meta Operator Amps
 
-### Amp
+Amps are modular weapons that enhance your Operators combat capabilities,   
+Since these items are modular, this section will cover what combinations are best for Eidolons.
 
-After you have completed The War Within and Saya's Vigil, You are now able to head on over to Quill Onkko to speak to him to receive your very own Mote Amp. Note that this amp is NOT good for a Hydrolyst, but you sure can do a few Teralyst with it to gain more standing, you want to swap out this amp as soon as possible.
+![](../../.gitbook/assets/image%20%2877%29.png)
 
-### 1-1-1 Amp
+People will often refer the best amp to be "x23, x27, or x77"  
+They are referring to the parts listed above, So what would mean:  
+x-2-3 = Any Prism, Shraksun Scaffold, Lohrin Brace  
+x-2-7 = Any Prism, Shraksun Scaffold, Certus Brace  
+x-7-7= Any Prism, Propa Scaffold, Certus Brace
 
-After you have done a few Teralyst with your Mote Amp, you should have gathered enough Sentient Cores to convert into standing to make a 1-1-1 amp, To be more specific, This amp consist of Raplak Prism, Pencha Scaffold, Clapkra Brace. This amp is 100x better then the Mote Amp and will help you out through a Hydrolyst fight.
+Disclaimer:  
+If you are just starting out and still are on the Mote Amp,  
+It would be strongly recommended to kill a few Teralyst, Use the cores gathered and make a 1-1-1 Amp,  
+Which is a Raplak Prism, Pencha Scaffold, Clapkra Brace.   
+This amp will serve much better then a Mote Amp in a Tridolon hunt. 
 
-### X-2-3 Amp
-
-After you have done a few Tridolons with your improved 1-1-1 amp, You should have gathered enough sentient cores to progress through Quill standing to make a X-2-3, To be more specific, X means any prism since the alt fire is what you use for Eidolons, Shraksun Scaffold because it is the best scaffold in hunts, Lohrin Brace because you want as much critical chance as you can get in eidolon fights. This amp will serve you well in any scenario, it can even do the most competitive, 6x3.
-
-### X-2-7 Amp
-
-Now comes the best amp into play, After you have gotten through the ranks of Vox Solaris and are able to get the Certus Brace, The best amp is a X-2-7, What is different from the X-2-3 and the X-2-7 is the 8% critical chance between the Lohrin and Certus Brace. This amp will surely last in every scenario.
-
-### X-7-7 Amp
-
-Here comes the amp that is surely different then the X-2-7, Instead of using the Shraksun Scaffold, you replace it with the Propa Scaffold, which fires a ball that travels up to 2 meters, which explodes on contact or it will automatically explode after 3 seconds of flight, This amp requires more coordination to suffice in a 4x3/5x3/6x3. Unless you instantly detonate it, you have to time it properly to detonate as soon as shields go up.
-
-![](../../.gitbook/assets/image%20%2857%29.png)
-
-### Focus
-
-So lets get started with what else you need on your operator focus trees.
+## Meta Operator Focus
 
 ### Void Strike
 
-Void Strike is the most important here, what it does is the longer you sit in void mode, the more damage you do for the next 8 shots, and gathering enough damage will result you in one shotting the eidolons shields, amazing right? 
+On leaving Void Mode the next **1 / 1 / 2 / 4 / 6 / 8** attacks deal **5% / 7% / 8% / 10% / 11% / 12%** additional damage for every second spent cloaked. Cloak consumes **2** additional energy per second.
 
-1. Madurai &gt; Phoenix Talons UNLOCK 
-2. Madurai &gt; Void Radiance UNLOCK \(Do not level\) 
-3. Madurai &gt; Void Strike MAX 
-4. Zenurik &gt; Energy Pulse UNLOCK 
-5. Zenurik &gt; Void Siphon UNLOCK
-6. Zenurik &gt; Void Flow UNBOUND
-7. Naramon &gt; Affinity Spike UNLOCK
-8. Naramon &gt; Mind Step UNLOCK
-9. Naramon &gt; Mind Sprint UNBOUND
-10. Zenurik &gt; Void Siphon UNBOUND
-11. Vazarin &gt; Mending Unity UNLOCK
-12. Vazarin &gt; Enduring Tides UNBOUND
-13. Madurai &gt; Inner Gaze UNBOUND 
-14. Unairu  &gt; Void Spines UNLOCK
-15. Unairu  &gt; Basilisk Scales UNBOUND
-16. Madurai &gt; Eternal Gaze UNBOUND 
-17. Vazarin &gt; Rejuvenating Tides UNBOUND
-18. Naramon &gt; Mind Step UNBOUND
+* The charges created by Void Strike will be consumed if either the Operator or the Warframe performs an attack.
+* Cloaking again while having charges left will increase the damage bonus for the remaining charges, but new charges will not be stored until all are used.
 
 ### Unairu Wisp
 
-Unairu Wisp is the most important here, what it does is when you perform a void blast, it has a 100% chance to summon a tiny wisp, when the wisp is picked up by either you or your teammates, your operator damage is increased by 100% for 12 seconds, very amazing to pair with Void Strike users.  
-Use this Route if you are playing the DPS role.
+Void Blast has a **25% / 50% / 75% / 100%** chance to summon a Wisp when it damages an enemy. The Wisp can be picked up by allies to increase Operator damage by **20% / 40% / 60% / 100%** for**3 / 6 / 9 / 12** seconds.
 
-1. Unairu &gt; Void Spines UNLOCK 
-2. Unairu &gt; Magnetic Blast UNLOCK 
-3. Unairu &gt; Unairu Wisp MAX 
-4. Zenurik &gt; Energy Pulse UNLOCK 
-5. Zenurik &gt; Void Siphon UNLOCK
-6. Zenurik &gt; Void Flow UNBOUND
-7. Naramon &gt; Affinity Spike UNLOCK
-8. Naramon &gt; Mind Step UNLOCK
-9. Naramon &gt; Mind Sprint UNBOUND
-10. Zenurik &gt; Void Siphon UNBOUND
-11. Vazarin &gt; Mending Unity UNLOCK
-12. Vazarin &gt; Enduring Tides UNBOUND
-13. Madurai &gt; Inner Gaze UNBOUND 
-14. Unairu  &gt; Basilisk Scales UNBOUND
-15. Madurai &gt; Eternal Gaze UNBOUND 
-16. Vazarin &gt; Rejuvenating Tides UNBOUND
-17. Naramon &gt; Mind Step UNBOUND
+* The Unairu Wisp shares the same model as [Cetus Wisp](https://warframe.fandom.com/wiki/Cetus_Wisp) and is most often found laying on the ground.
+* Multiple wisps can be picked up by a single Operator, refreshing their duration.
+* The wisp grants a multiplicative damage bonus
 
-### Arcanes
+### Waybounds
 
-Operator arcanes play a huge part in terms of effectiveness. Some of the most important ones would be Magus Vigor, Magus Elevate, Magus Anomaly, Magus Repair, Virtuous Shadow.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Unairu Wisp</th>
+      <th style="text-align:left">Void Strike</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <ol>
+          <li>Unairu &gt; Void Spines UNLOCK</li>
+          <li>Unairu &gt; Magnetic Blast UNLOCK</li>
+          <li>Unairu &gt; Unairu Wisp MAX</li>
+          <li>Zenurik &gt; Energy Pulse UNLOCK</li>
+          <li>Zenurik &gt; Void Siphon UNLOCK</li>
+          <li>Zenurik &gt; Void Flow UNBOUND</li>
+          <li>Naramon &gt; Affinity Spike UNLOCK</li>
+          <li>Naramon &gt; Mind Step UNLOCK</li>
+          <li>Naramon &gt; Mind Sprint UNBOUND</li>
+          <li>Zenurik &gt; Void Siphon UNBOUND</li>
+          <li>Vazarin &gt; Mending Unity UNLOCK</li>
+          <li>Vazarin &gt; Enduring Tides UNBOUND</li>
+          <li>Madurai &gt; Inner Gaze UNBOUND</li>
+          <li>Unairu &gt; Void Spines UNLOCK</li>
+          <li>Unairu &gt; Basilisk Scales UNBOUND</li>
+          <li>Madurai &gt; Eternal Gaze UNBOUND</li>
+          <li>Vazarin &gt; Rejuvenating Tides UNBOUND</li>
+          <li>Naramon &gt; Mind Step UNBOUND</li>
+        </ol>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ol>
+          <li>Madurai &gt; Phoenix Talons UNLOCK</li>
+          <li>Madurai &gt; Void Radiance UNLOCK (Do not level)</li>
+          <li>Madurai &gt; Void Strike MAX</li>
+          <li>Zenurik &gt; Energy Pulse UNLOCK</li>
+          <li>Zenurik &gt; Void Siphon UNLOCK</li>
+          <li>Zenurik &gt; Void Flow UNBOUND</li>
+          <li>Naramon &gt; Affinity Spike UNLOCK</li>
+          <li>Naramon &gt; Mind Step UNLOCK</li>
+          <li>Naramon &gt; Mind Sprint UNBOUND</li>
+          <li>Zenurik &gt; Void Siphon UNBOUND</li>
+          <li>Vazarin &gt; Mending Unity UNLOCK</li>
+          <li>Vazarin &gt; Enduring Tides UNBOUND</li>
+          <li>Madurai &gt; Inner Gaze UNBOUND</li>
+          <li>Unairu &gt; Void Spines UNLOCK</li>
+          <li>Unairu &gt; Basilisk Scales UNBOUND</li>
+          <li>Madurai &gt; Eternal Gaze UNBOUND</li>
+          <li>Vazarin &gt; Rejuvenating Tides UNBOUND</li>
+          <li>Naramon &gt; Mind Step UNBOUND</li>
+        </ol>
+        <p></p>
+      </td>
+    </tr>
+  </tbody>
+</table>## Meta Operator Arcanes
 
-* Magus Vigor - Increases operator health by 200.
-* Magus Elevate - Entering Warframe has a 75% chance to heal it for 200 health.
-* Magus Anomaly - Entering Warframe will cause enemies in 20 meters to be pulled to the warframe.
-* Magus Repair - In Void Mode, It will heal warframes in a 20 meter radius by 20% health per second.
-* Virtuous Shadow - On headshots, 40% Chance for a multiplicative 60% critical chance boost.
+### Virtuous Shadow
 
-{% page-ref page="role-jobs.md" %}
+Virtuous Shadow is an Arcane for Operator Amps that grant additional Critical Chance on headshots.  
+Can be triggered by Void Dashing into an Eidolon's head.  
+Grants +60% cc at a 40% chance at rank 3.
+
+### Magus Vigor
+
+Magus Vigor is an Arcane for the Operator that grants increased Health.  
+Grants +200 health at rank 3.  
+Stacks with Vazarin's Enduring Tides.
+
+### Magus Husk
+
+Magus Husk is an Arcane for the Operator that grants increased Armor.  
+Grants +100 armor at rank 3.  
+Stacks with Unairu's Basilisk Scales.
+
+### Magus Lockdown
+
+Magus Lockdown is an Arcane for the Operator for whenever you Void Dash,   
+It will drop a tether mine.  
+Tether range is 12 meters at rank 3.
+
+### Magus Repair
+
+Magus Repair is an Arcane for the Operator for whenever you sit in Void Mode,  
+It will restore health to nearby Warframes.  
+Heals for 20% health at a 20 meter range at rank 3.
+
+### Magus Elevate
+
+Magus Elevate is an Arcane for the Operator for whenever you transfer back into your Warframe,  
+It will grant a chance to restore some health.  
+Heals for 200 health at a 75% chance at rank 3.
+
+### Magus Melt
+
+Magus Melt is an Arcane for the Operator for whenever you Void Dash,  
+It will temporarily add Heat damage to your amp.  
+Grants a 20% Heat increase, stacking up to 5 times for 10 seconds at rank 3.
+
+### Magus Cadence
+
+Magus Cadence is an Arcane for the Operator for whenever you Void Dash,  
+It will grant increased Sprint Speed.  
+Grants 60% increase for 8 seconds at rank 3.  
+  
+
 
