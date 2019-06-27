@@ -24,9 +24,11 @@ Here are a few notable things about them,
 * Regenerate back into Physical form once they have been in Energy Form for a period of time.
 * Can be sucked up into Eidolon Lures.
 
+![post-rework spawns \(credit effion\#0001\)](../../.gitbook/assets/image%20%2883%29.png)
+
 ## Eidolon Lures
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 Eidolon Lures are Grineer machines found in the Plains of Eidolon at Grineer encampments during night time cycle. These can be hacked with Ciphers, so it is recommended to get some for these guys.   
 Here are a few notable things about them,
@@ -35,6 +37,7 @@ Here are a few notable things about them,
 * Takes a total of 3 Vomvalyst to charge one.
 * Can be held position to give to another squad mate.
 * Ciphers work on them.
+* [Fast Charging guide](https://old.reddit.com/r/Warframe/comments/9ttso7/dear_chroma_the_breaker_of_limbs_ivara_the/)
 
 ## Eidolon Teralyst
 
@@ -134,7 +137,7 @@ Here are the rewards.
 
 ## Eidolon Hydrolyst
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 Eidolon Hydrolyst is the third and final boss you encounter after you have successfully captured the Gantulyst meanwhile night time is present, This Eidolon has a series of attacks that do moderate to some what high damage over time, as well as passives.  
 Here are a few notable things about them,

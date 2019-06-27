@@ -12,7 +12,7 @@ description: All of these builds have been tested in hunts and are viable.
 
 ### Rhino
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 ### Volt
 
@@ -35,20 +35,20 @@ description: All of these builds have been tested in hunts and are viable.
 If you are running Chroma, Use this build:  
 If you are not running Chroma, Simply swap out Primed Cryo Rounds for Serration.
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 
 ### Lanka
 
 If you are running Chroma, Use this build:  
 If you are not running Chroma, Simply swap out Primed Cryo Rounds for Serration.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ## Standard meta self damage
 
 ### Hikou Prime
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ### Cerata
 
@@ -58,15 +58,15 @@ If you are not running Chroma, Simply swap out Primed Cryo Rounds for Serration.
 
 ### Titania
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 #### Dex Pixia
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 ### Ivara
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 ### Garuda
 
@@ -74,7 +74,7 @@ If you are not running Chroma, Simply swap out Primed Cryo Rounds for Serration.
 
 ### Octavia
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 ### Ember
 
@@ -88,13 +88,13 @@ If you are not running Chroma, Simply swap out Primed Cryo Rounds for Serration.
 
 ### Redeemer Prime
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ### Pyrana Prime
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 ### Catchmoon
 
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 

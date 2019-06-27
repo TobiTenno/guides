@@ -28,7 +28,7 @@ additional fire rate, since Umbra has infinite magazine with the Kohm.
 
 For this area, you’ll want to head to the enemy side of the map \(the one that’s chrome/the one that you put points on\). Once you get there, there’ll be 2 boxes near the place where you score your points. Once you reach these, you stand on top of the box to the left of the point are scored \(facing inward towards the map\). Once this has been done, you have to keep looking at the barrels which I’m looking at on the pic below: 
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 ### Inside Map: 
 
