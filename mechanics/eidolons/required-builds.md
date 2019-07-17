@@ -92,9 +92,9 @@ If you are not running Chroma, Simply swap out Primed Cryo Rounds for Serration.
 
 ### Pyrana Prime
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 ### Catchmoon
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 

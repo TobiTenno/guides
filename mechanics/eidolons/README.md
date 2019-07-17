@@ -24,7 +24,7 @@ Here are a few notable things about them,
 * Regenerate back into Physical form once they have been in Energy Form for a period of time.
 * Can be sucked up into Eidolon Lures.
 
-![post-rework spawns \(credit effion\#0001\)](../../.gitbook/assets/image%20%2883%29.png)
+![post-rework spawns \(credit effion\#0001\)](../../.gitbook/assets/image%20%2884%29.png)
 
 ## Eidolon Lures
 
@@ -137,7 +137,7 @@ Here are the rewards.
 
 ## Eidolon Hydrolyst
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 Eidolon Hydrolyst is the third and final boss you encounter after you have successfully captured the Gantulyst meanwhile night time is present, This Eidolon has a series of attacks that do moderate to some what high damage over time, as well as passives.  
 Here are a few notable things about them,

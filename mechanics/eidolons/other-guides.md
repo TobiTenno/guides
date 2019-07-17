@@ -24,7 +24,7 @@ description: >-
 
 ## Info graphics
 
-![Lure Map](../../.gitbook/assets/image%20%2888%29.png)
+![Lure Map](../../.gitbook/assets/image%20%2889%29.png)
 
 ![amp parts](../../.gitbook/assets/image%20%2850%29.png)
 

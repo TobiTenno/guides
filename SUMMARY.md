@@ -23,6 +23,7 @@
 * [Affinity](mechanics/affinity.md)
 * [Current Baro Rotations](mechanics/current-recommendations.md)
 * [Cephalon Simaris Guide](mechanics/cephalon-simaris-guide.md)
+* [Current Prime Access/Vault](mechanics/current-prime-access-vault.md)
 * [Ephemera Acquistions](mechanics/ephemera-acquistions.md)
 * [Events](mechanics/prime-access.md)
 * [Future Prime Frames Sequence](mechanics/future-prime-frames-sequence.md)

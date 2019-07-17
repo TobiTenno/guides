@@ -24,12 +24,6 @@ have Alloy Armor, you want to build for Radiation, so 90% Electricity 90% Heat.
 You also want to build for crit, so use those mods as well. For the Kohm, You also want  
 additional fire rate, since Umbra has infinite magazine with the Kohm.
 
-### Mountain Map: 
-
-For this area, you’ll want to head to the enemy side of the map \(the one that’s chrome/the one that you put points on\). Once you get there, there’ll be 2 boxes near the place where you score your points. Once you reach these, you stand on top of the box to the left of the point are scored \(facing inward towards the map\). Once this has been done, you have to keep looking at the barrels which I’m looking at on the pic below: 
-
-![](../.gitbook/assets/image%20%2891%29.png)
-
 ### Inside Map: 
 
 For this area, you’ll want to head to the enemy side of the map \(the one that’s chrome/the one that you put points on\). Once you get there, there’ll be a ledge on top of the hallway leading to the staircase. You’ll want to stand on this, then leave umbra. This will teleport him below, on to the bunker protecting the place where points are scored. Once this has been done, you have to look within the area which I marked below:

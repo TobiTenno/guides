@@ -5,7 +5,7 @@
 Amps are modular weapons that enhance your Operators combat capabilities,   
 Since these items are modular, this section will cover what combinations are best for Eidolons.
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 People will often refer the best amp to be "x23, x27, or x77"  
 They are referring to the parts listed above, So what would mean:  
@@ -146,7 +146,9 @@ Magus Cadence is an Arcane for the Operator for whenever you Void Dash,
 It will grant increased Sprint Speed.  
 Grants 60% increase for 8 seconds at rank 3.
 
-![operator ehp \(Credit Sintharius \#4284\)](../../.gitbook/assets/image%20%2870%29.png)
+### Operator EHP Chart
+
+![operator ehp \(Credit Sintharius \#4284\)](../../.gitbook/assets/image%20%2871%29.png)
 
 
 
