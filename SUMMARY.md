@@ -47,10 +47,6 @@
   * [Riven Mod Endo Return Formula](mechanics/riven-mods/riven-mod-endo-return-formula.md)
   * [Other Assets](mechanics/riven-mods/other-assets.md)
 
-## About the Contributors
-
-* [Contributors](about-the-contributors/contributors.md)
-
 ## Other Guides
 
 * [Warframe Handbook](other-guides/warframe-handbook.md)
@@ -72,4 +68,8 @@
   * [Fighters](shareable-infographics/tenno-info-infographics/fighters.md)
   * [Frames](shareable-infographics/tenno-info-infographics/frames.md)
   * [Quest Unlocks](shareable-infographics/tenno-info-infographics/quest-unlocks.md)
+
+## About the Contributors
+
+* [Contributors](about-the-contributors/contributors.md)
 
