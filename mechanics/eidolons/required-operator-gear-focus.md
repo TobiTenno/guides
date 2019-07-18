@@ -5,7 +5,7 @@
 Amps are modular weapons that enhance your Operators combat capabilities,   
 Since these items are modular, this section will cover what combinations are best for Eidolons.
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 People will often refer the best amp to be "x23, x27, or x77"  
 They are referring to the parts listed above, So what would mean:  
@@ -148,7 +148,7 @@ Grants 60% increase for 8 seconds at rank 3.
 
 ### Operator EHP Chart
 
-![operator ehp \(Credit Sintharius \#4284\)](../../.gitbook/assets/image%20%2871%29.png)
+![operator ehp \(Credit Sintharius \#4284\)](../../.gitbook/assets/image%20%2890%29.png)
 
 
 

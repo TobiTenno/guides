@@ -39,5 +39,5 @@ description: This page has what relic drops and where to farm each.
 
 ## Recommended Farming Areas
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
