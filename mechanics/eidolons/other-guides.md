@@ -24,11 +24,11 @@ description: >-
 
 ## Info graphics
 
-![Lure Map](../../.gitbook/assets/image%20%28111%29.png)
+![Lure Map](../../.gitbook/assets/image%20%28136%29.png)
 
-![amp parts](../../.gitbook/assets/image%20%2860%29.png)
+![amp parts](../../.gitbook/assets/image%20%2873%29.png)
 
-![Possible Vomvalyst Spawns](../../.gitbook/assets/image%20%2818%29.png)
+![Possible Vomvalyst Spawns](../../.gitbook/assets/image%20%2820%29.png)
 
 ## 5x3 guide
 

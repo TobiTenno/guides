@@ -28,7 +28,7 @@ additional fire rate, since Umbra has infinite magazine with the Kohm.
 
 For this area, you’ll want to head to the enemy side of the map \(the one that’s chrome/the one that you put points on\). Once you get there, there’ll be a ledge on top of the hallway leading to the staircase. You’ll want to stand on this, then leave umbra. This will teleport him below, on to the bunker protecting the place where points are scored. Once this has been done, you have to look within the area which I marked below:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### How it works: 
 
