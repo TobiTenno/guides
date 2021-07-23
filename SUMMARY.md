@@ -27,7 +27,7 @@
 * [Ephemera Acquistions](mechanics/ephemera-acquistions.md)
 * [Events](mechanics/prime-access.md)
 * [Future Prime Frames Sequence](mechanics/future-prime-frames-sequence.md)
-* [Modding](mechanics/modding.md)
+* [ACrash Course in Weapon Modding](mechanics/modding.md)
 * [The Index \(Easily\)](mechanics/the-index-easily.md)
 * [Warframe Acquisition](mechanics/warframe-acquisition.md)
 * [Orb Vallis Gameplay](mechanics/orb-vallis-gameplay/README.md)
