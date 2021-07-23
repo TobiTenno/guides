@@ -2,7 +2,7 @@
 description: 'by @Tallow316#8287'
 ---
 
-# ACrash Course in Weapon Modding
+# Crash Course in Weapon Modding
 
 One of the biggest roadblocks in Warframe is getting your gear up to snuff, and keeping it that way as you progress over time. In a game like Warframe, with such a complex modding system, it’s totally normal to be very intimidated at first. I mean, there’s almost a thousand of the things in the game now, so it’s no wonder why the system is a major draw for some players. That being said, there’s a few weapon mods that stand above the rest, and are suitable for most if not all builds. In this guide, I will only be going over weapon mods, as warframes have such an immense amount of build variety that one guide just couldn’t cover everything. Without further ado, let’s get to it!
 
