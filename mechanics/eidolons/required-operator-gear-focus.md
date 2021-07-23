@@ -96,7 +96,9 @@ Void Blast has a **25% / 50% / 75% / 100%** chance to summon a Wisp when it dama
       </td>
     </tr>
   </tbody>
-</table>## Meta Operator Arcanes
+</table>
+
+## Meta Operator Arcanes
 
 ### Virtuous Shadow
 
