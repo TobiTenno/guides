@@ -10,13 +10,13 @@
 | Inaros | 09-15-2020 \| 11-03-2020 | Mesa Prime | Akjagara Prime, Redeemer Prime |
 | Octavia | 12-15-2020 \| 02-9-2021 | Equinox Prime | Stradavar Prime, Tipedo Prime |
 | Gara | 03-16-2021 \| 05-18-2021 | Wukong Prime | Zhuge Prime, Ninkondi Prime |
-| Nidus | 06-15-2021 \| 08-24-2021 | Atlas Prime | ??? |
-| Harrow | 09-14-2021 \| 11-30-2021 | Ivara Prime | ??? |
-| Khora | 12-14-2021 \| 03-08-2022 | Titania Prime | ??? |
-| Garuda | 03-15-2022 \| 06-14-2022 | Nezha Prime | ??? |
-| Revenant | 06-14-2022 \| 09-20-2022 | Inaros Prime | ??? |
-| Baruuk | 09-13-2022 \| 12-27-2022 | Octavia Prime | ??? |
-| Hildryn | 01-05-2023 \| 04-08-2023 | Gara Prime | ??? |
+| Nidus | 06-15-2021 \| 08-24-2021 | Atlas Prime | Dethcube Prime (w/ Deth Machine Rifle Prime), Tekko Prime |
+| Harrow | 09-14-2021 \| 11-30-2021 | Ivara Prime | Baza Prime, Aksomati Prime |
+| Khora | 12-14-2021 \| 03-08-2022 | Titania Prime | Corinth Prime, Pangolin Prime |
+| Garuda | 03-15-2022 \| 06-14-2022 | Nezha Prime | Zakti Prime, Guandao Prime |
+| Revenant | 06-14-2022 \| 09-20-2022 | Inaros Prime | Panthera Prime, Karyst Prime |
+| Baruuk | 09-13-2022 \| 12-27-2022 | Octavia Prime | Tenora Prime, Pandero Prime |
+| Hildryn | 01-05-2023 \| 04-08-2023 | Gara Prime | Astilla Prime, Volnus Prime |
 | Wisp | ??? | Nidus Prime | ??? |
 | Gauss | ??? | Harrow Prime | ??? |
 | Grendel | ??? | Khora Prime | ??? |
